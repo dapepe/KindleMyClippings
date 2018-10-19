@@ -1918,3 +1918,1453 @@ Antifragile: Things That Gain From Disorder (Nassim Nicholas Taleb)
 
 Complex systems are full of interdependencies—hard to detect—and nonlinear responses. “Nonlinear” means that when you double the dose of, say, a medication, or when you double the number of employees in a factory, you don’t get twice the initial effect, but rather a lot more or a lot less. Two weekends in Philadelphia are not twice as pleasant as a single one—I’ve tried. When the response is plotted on a graph, it does not show as a straight line (“linear”), rather as a curve. In such environment, simple causal associations are misplaced; it is hard to see how things work by looking at single parts.
 ==========
+Traction: A Startup Guide to Getting Customers (Weinberg, Gabriel;Mares, Justin)
+- Ihre Markierung bei Position 2501-2509 | Hinzugefügt am Montag, 6. März 2017 22:16:51
+
+Sales works best for high-priced products that require some customer hand-holding. Good first customers have a burning need to address a problem, are interested in your approach to solving their problem, and are willing to work with you closely. Cold calling should not be ruled out as a sales approach, especially when trying to find first customers. The goal of sales is building a repeatable sales model. An effective sales funnel has prospects enter at the top, qualifies these leads, and closes them effectively. To close sales effectively, get the buyer to commit to timelines based on specific actions being taken and met. At each point get an affirmative that you are on track to close. When designing your sales funnel, always keep in mind the perspective of the customer, especially in terms of reducing the complexity of the buying process.
+==========
+Traction: A Startup Guide to Getting Customers (Weinberg, Gabriel;Mares, Justin)
+- Ihre Markierung bei Position 2497-2500 | Hinzugefügt am Montag, 6. März 2017 22:19:23
+
+JBoss built an impressive and wildly successful sales funnel. A big reason for its success was that it was designed from the standpoint of their customer. They utilized free tools to generate leads at a low cost by offering customers the documentation they wanted. They qualified them through marketing built on customer education. Finally, they used an inside sales team to close each deal at an average deal size above $10,000.
+==========
+How to Argue: Powerfully, Persuasively, Positively (Jonathan Herring)
+- Ihre Markierung bei Position 48-49 | Hinzugefügt am Mittwoch, 15. März 2017 23:57:39
+
+Avoiding an argument can mean that the problem simply goes on and is brushed under the rug. The suppressed resentment can poison a relationship or fill a workplace with tension.
+==========
+How to Argue: Powerfully, Persuasively, Positively (Jonathan Herring)
+- Ihre Markierung bei Position 58-59 | Hinzugefügt am Mittwoch, 15. März 2017 23:58:40
+
+“The aim of argument, or of discussion, should not be victory but progress.” Karl Popper
+==========
+How to Argue: Powerfully, Persuasively, Positively (Jonathan Herring)
+- Ihre Markierung bei Position 90-93 | Hinzugefügt am Donnerstag, 16. März 2017 00:01:56
+
+Logicians talk about a “premise” and a “conclusion.” A premise is a fact upon which it logically follows that there will be a particular conclusion. For example: “I like all action films, therefore I like James Bond movies.” Here the premise is that I like action films and the logical conclusion is that I like James Bond movies. Sometimes several premises are needed to reach a conclusion. In a complex argument, a series of logical conclusions can be drawn from an initial premise.
+==========
+How to Argue: Powerfully, Persuasively, Positively (Jonathan Herring)
+- Ihre Markierung bei Position 110-113 | Hinzugefügt am Samstag, 18. März 2017 21:47:47
+
+So if you’re trying to make an argument that’s convincing you need to start with some facts (premises) that the other party will accept as true and then move to a conclusion that must logically flow from the premise. There are two things you need to be confident about: 1. Make sure your facts (your premises) are correct. 2. Make sure that your conclusions necessarily follow from your facts.
+==========
+How to Argue: Powerfully, Persuasively, Positively (Jonathan Herring)
+- Ihre Markierung bei Position 118-119 | Hinzugefügt am Samstag, 18. März 2017 21:48:33
+
+Arguing without facts is like trying to make a snowman with cold water.
+==========
+How to Argue: Powerfully, Persuasively, Positively (Jonathan Herring)
+- Ihre Markierung bei Position 149-152 | Hinzugefügt am Samstag, 18. März 2017 21:53:02
+
+Listen carefully to what is being claimed. Be especially wary of “up to” claims. If the argument evidence shows that pollution levels have risen by up to 35 percent that means that 35 percent is the very top level the evidence indicates. The true average figure is not disclosed and may be much less than 35 percent. Also beware of studies showing that people are “possibly” and/or “considering” something.
+==========
+How to Argue: Powerfully, Persuasively, Positively (Jonathan Herring)
+- Ihre Markierung bei Position 157-161 | Hinzugefügt am Samstag, 18. März 2017 21:54:13
+
+Be very careful of percentages. Take a (fictitious) claim that drinking coffee increases your risk of heart attack by 35 percent. Such a claim may well send you heading for the nearest bar. But before you do, such a statistic is highly misleading. First, we need to know to whom the risk applies. Is the increased risk only for those of a certain age, or those prone to heart attacks, or for the “average person”? Secondly, you need to think about what the risk of heart attack is in the first place. We could say that going for walks in the countryside increases your risk of being hit by an asteroid by 300 percent, but you would probably not worry because the risk isn’t high in the first place.
+==========
+How to Argue: Powerfully, Persuasively, Positively (Jonathan Herring)
+- Ihre Markierung bei Position 161-162 | Hinzugefügt am Samstag, 18. März 2017 21:54:29
+
+So a horrifying-looking increase in a risk is irrelevant if the orginal risk is very low.
+==========
+How to Argue: Powerfully, Persuasively, Positively (Jonathan Herring)
+- Ihre Markierung bei Position 194-195 | Hinzugefügt am Samstag, 18. März 2017 22:04:16
+
+There is a well-known rule: tell people what you are going to say; then tell them again; then tell them what you have said. This is often said. For a good reason: it’s extremely good advice.
+==========
+How to Argue: Powerfully, Persuasively, Positively (Jonathan Herring)
+- Ihre Markierung bei Position 182-192 | Hinzugefügt am Samstag, 18. März 2017 22:04:27
+
+Make it clear what you’re arguing for and why It’s always good to set out at the start what you’re arguing for and why. Consider this opening of an argument: “The company should support the proposal to purchase the building at 3 New Street. I will demonstrate three reasons why. First, doing so will generate a considerable profit. Secondly, we have a real need for more space. Thirdly, it will improve the public image of the company.” At the very start the arguer makes it clear what they’re arguing in favor of and informs the listener by giving evidence of the three facts that will establish the case. Similarly, at the end of the argument repeat what has been shown: “So we have seen that adopting this proposal to buy 3 New Street will generate considerable profit. We are in desperate need of space and buying that building will sort that problem out. Thirdly, adopting this proposal will greatly improve the public image of the company. I urge you to support this proposal.” Note that the start and conclusion have put the reasons supporting the argument in their simplest form. There is obviously much more that might need to be said in the middle, but start and end with the three key points you’re using to support your argument.
+==========
+How to Argue: Powerfully, Persuasively, Positively (Jonathan Herring)
+- Ihre Markierung bei Position 208-213 | Hinzugefügt am Freitag, 14. April 2017 00:08:53
+
+Entering arguments Think especially about the following: • Could there be a productive outcome from this argument? • Is it better to have the argument in private or with other people around? • Do you have the information you need to make a good argument? • Are you feeling emotionally ready for the argument? • Is the other person emotionally ready to hear your arguments?
+==========
+How to Argue: Powerfully, Persuasively, Positively (Jonathan Herring)
+- Ihre Markierung bei Position 225-227 | Hinzugefügt am Freitag, 14. April 2017 00:10:46
+
+“What evidence would you need to change your mind?” That’s a telling question. If the person suggests that no evidence could prove them wrong, then you know you’re dealing with a total fanatic.
+==========
+How to Argue: Powerfully, Persuasively, Positively (Jonathan Herring)
+- Ihre Markierung bei Position 225-228 | Hinzugefügt am Freitag, 14. April 2017 00:11:06
+
+“What evidence would you need to change your mind?” That’s a telling question. If the person suggests that no evidence could prove them wrong, then you know you’re dealing with a total fanatic. Walk away! Never argue with a fanatic, it’s a waste of time.
+==========
+How to Argue: Powerfully, Persuasively, Positively (Jonathan Herring)
+- Ihre Markierung bei Position 305-308 | Hinzugefügt am Freitag, 14. April 2017 00:16:38
+
+Clarity It’s a big mistake to think that the more complicated your argument the more convincing it is. Even the most difficult of issues can be boiled down to a few simple points. That’s not a call for dumbing down. You may need to include some complex ideas, but nearly always you can return at the end to your few key points. If those you’re arguing with don’t understand the claim you’re making or why you’re making it you’re unlikely to make progress.
+==========
+How to Argue: Powerfully, Persuasively, Positively (Jonathan Herring)
+- Ihre Markierung bei Position 300-301 | Hinzugefügt am Freitag, 14. April 2017 00:16:53
+
+To regard an argument as simply an intellectual battle would be a serious error. Many arguments involve emotional matters as much as intellectual ones. Have
+==========
+How to Argue: Powerfully, Persuasively, Positively (Jonathan Herring)
+- Ihre Markierung bei Position 312-315 | Hinzugefügt am Freitag, 14. April 2017 00:17:55
+
+Brevity I’ve said this once already, but I say it again. Keep it brief. A useful guide is the “postcard test.” Can you summarize what you want to say on a postcard? Unless you’ve been asked specifically to comment on an issue, you should limit yourself to three key points at the most. Most people say too much when arguing.
+==========
+How to Argue: Powerfully, Persuasively, Positively (Jonathan Herring)
+- Ihre Markierung bei Position 316-318 | Hinzugefügt am Freitag, 14. April 2017 00:18:22
+
+Remember, only one argument needs to work. So choose your best ones and make the most of them. Focus on the question “What do they need to know?”
+==========
+How to Argue: Powerfully, Persuasively, Positively (Jonathan Herring)
+- Ihre Markierung bei Position 322-323 | Hinzugefügt am Freitag, 14. April 2017 00:18:51
+
+Enthusiasm Be enthusiastic about your argument. There’s nothing wrong in showing people that you care about the issue.
+==========
+How to Argue: Powerfully, Persuasively, Positively (Jonathan Herring)
+- Ihre Markierung bei Position 335-335 | Hinzugefügt am Freitag, 14. April 2017 00:20:10
+
+Burden of proof
+==========
+How to Argue: Powerfully, Persuasively, Positively (Jonathan Herring)
+- Ihre Markierung bei Position 342-347 | Hinzugefügt am Freitag, 14. April 2017 15:48:29
+
+“Give me one good reason why we should not buy this car.” By saying this the assumption is made that buying the car is good. You might have said: “Give me one good reason why we should buy this car.” But that would put the burden of proof on finding good reasons to purchase the car. So in arguing, seek to steer the argument into asking why your point of view should not be accepted. That way skeptics will remain on your side, unless they’re convinced that there is a good reason to go against you.
+==========
+How to Argue: Powerfully, Persuasively, Positively (Jonathan Herring)
+- Ihre Markierung bei Position 380-382 | Hinzugefügt am Freitag, 14. April 2017 15:50:35
+
+Use emotional associations Restaurants, it’s said, charge on average 15 percent more for dishes that refer to “Mom’s specials.” It’s amazing how a homey analogy can make something ordinary appear special. That’s true too of arguments.
+==========
+How to Argue: Powerfully, Persuasively, Positively (Jonathan Herring)
+- Ihre Markierung bei Position 401-402 | Hinzugefügt am Freitag, 14. April 2017 15:52:08
+
+Useful example “A speech like a Texas longhorn: a point here, a point there, but a whole lot of bull in between.”
+==========
+How to Argue: Powerfully, Persuasively, Positively (Jonathan Herring)
+- Ihre Markierung bei Position 432-434 | Hinzugefügt am Freitag, 14. April 2017 15:54:42
+
+Fourthly, it may well help saying aloud that what the person has said has upset you. Admitting that you are upset will help you and help the other person understand the effect the conversation is having on you. You can acknowledge the other person’s views quite simply: “I realize what you have just said is your religious view, but I’m very upset by it.”
+==========
+How to Argue: Powerfully, Persuasively, Positively (Jonathan Herring)
+- Ihre Markierung bei Position 461-467 | Hinzugefügt am Freitag, 14. April 2017 15:59:10
+
+Al Smith, a politician, when asked what his views on alcohol were, said: “If by alcohol you mean that which is the defiler of innocence, the corrupter of chastity, the scourge of disease, the ruination of the mind and the cause of unemployment and broken families, then of course I oppose it with every resource of mind and body. But if by alcohol you mean that spirit of fellowship; that oil of conversation which adds lilt to the lips and music to the mouth; that liquid warmth which gladdens the soul and cheers the heart; that benefit whose tax revenue has contributed countless millions into public treasuries to educate our children, to care for the blind, and treat our needy elder citizens—then with all the resources of my mind and body I favor it.”
+==========
+How to Argue: Powerfully, Persuasively, Positively (Jonathan Herring)
+- Ihre Markierung bei Position 490-494 | Hinzugefügt am Freitag, 14. April 2017 16:01:25
+
+There are three important reasons for this: • You will only persuade someone of something if you address the concerns they have. • You must present your arguments in terms that the other person will find convincing. • By keeping quiet (when listening) you’re giving the other person time to present their arguments. The weakness of their view may become more apparent to them and to others, and they might very well “shoot themselves in the foot.”
+==========
+How to Argue: Powerfully, Persuasively, Positively (Jonathan Herring)
+- Ihre Markierung bei Position 495-496 | Hinzugefügt am Freitag, 14. April 2017 16:01:37
+
+As a general rule, you should spend more time listening than talking. Aim for listening for 75 percent of the conversation and giving your own arguments for about 25 percent.
+==========
+How to Argue: Powerfully, Persuasively, Positively (Jonathan Herring)
+- Ihre Markierung bei Position 504-510 | Hinzugefügt am Freitag, 14. April 2017 16:03:09
+
+Listening to someone is not just keeping quiet while they’re talking. It involves trying to understand what the person is saying and why. If you don’t understand, then ask for clarification. Some people will need help explaining their view. As we said earlier, some people just state their conclusions and need to be encouraged to explain their reasoning. “That’s really interesting. I’ve never met someone who thought that the world was flat. Why do you think that?” Asking a question of the other person is important because it reveals to you where they’re coming from and what are the foundations of their arguments. Only once you know these can you seek to challenge them.
+==========
+How to Argue: Powerfully, Persuasively, Positively (Jonathan Herring)
+- Ihre Markierung bei Position 569-572 | Hinzugefügt am Freitag, 14. April 2017 16:07:28
+
+Appealing to a person’s core values and seeking to connect your arguments with those will be persuasive. Useful example “If you do this people will think you’re dishonest and manipulative. Do you want to be seen as that kind of person?”
+==========
+How to Argue: Powerfully, Persuasively, Positively (Jonathan Herring)
+- Ihre Markierung bei Position 599-600 | Hinzugefügt am Freitag, 14. April 2017 16:09:33
+
+Link up with a person’s positives. Where possible find areas of agreement: “I agree you’ve made some great points in that presentation. However, we do need to weigh the disadvantages with the benefits.”
+==========
+How to Argue: Powerfully, Persuasively, Positively (Jonathan Herring)
+- Ihre Markierung bei Position 596-598 | Hinzugefügt am Freitag, 14. April 2017 16:09:44
+
+Useful examples “Let’s try and establish what we agree on.” “Could you explain that to me again? I’m having difficulty understanding your point.” “We need to find a solution to this that we can both live with.”
+==========
+How to Argue: Powerfully, Persuasively, Positively (Jonathan Herring)
+- Ihre Markierung bei Position 628-631 | Hinzugefügt am Freitag, 14. April 2017 16:11:31
+
+There are three ways of responding to an argument: • Challenging the facts upon which the other person is relying. • Challenging the conclusions they are reaching. • Accepting the point they have made, but arguing that there are other points that outweigh what has been said.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 147-154 | Hinzugefügt am Samstag, 9. September 2017 21:51:01
+
+The Six Filters for Truth Personal experience (Human perceptions are iffy.) Experience of people you know (Even more unreliable.) Experts (They work for money, not truth.) Scientific studies (Correlation is not causation.) Common sense (A good way to be mistaken with complete confidence.) Pattern recognition (Patterns, coincidence, and personal bias look alike.) In our messy, flawed lives, the nearest we can get to truth is consistency.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 168-171 | Hinzugefügt am Samstag, 9. September 2017 21:54:10
+
+I’m not an expert in any of the topics I’ll discuss here. But I am a professional simplifier. My main job for the past few decades has been creating Dilbert. Making comics is a process by which you strip out the unnecessary noise from a situation until all that is left is the absurd-yet-true core. A cartoonist has to accomplish that feat with as few as four short sentences. I’ve performed that trick nearly nine thousand times, sometimes successfully.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 285-293 | Hinzugefügt am Donnerstag, 5. Oktober 2017 22:39:00
+
+You often hear advice from successful people that you should “follow your passion.” That sounds perfectly reasonable the first time you hear it. Passion will presumably give you high energy, high resistance to rejection, and high determination. Passionate people are more persuasive, too. Those are all good things, right? Here’s the counterargument: When I was a commercial loan officer for a large bank in San Francisco, my boss taught us that you should never make a loan to someone who is following his passion. For example, you don’t want to give money to a sports enthusiast who is starting a sports store to pursue his passion for all things sporty. That guy is a bad bet, passion and all. He’s in business for the wrong reason. My boss, who had been a commercial lender for over thirty years, said the best loan customer is one who has no passion whatsoever, just a desire to work hard at something that looks good on a spreadsheet. Maybe the loan customer wants to start a dry-cleaning store or invest in a fast-food franchise—boring stuff. That’s the person you bet on. You want the grinder, not the guy who loves his job.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 298-299 | Hinzugefügt am Donnerstag, 5. Oktober 2017 22:40:33
+
+Naturally those successful people want you to believe that success is a product of their awesomeness, but they also want to retain some humility.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 299-301 | Hinzugefügt am Donnerstag, 5. Oktober 2017 22:40:51
+
+You can’t be humble and say, “I succeeded because I am far smarter than the average person.” But you can say your passion was a key to your success, because everyone can be passionate about something or other. Passion sounds more accessible. If you’re dumb, there’s not much you can do about it, but passion is something we think anyone can generate in the right circumstances.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 310-312 | Hinzugefügt am Donnerstag, 5. Oktober 2017 22:42:16
+
+In hindsight, it looks as if the projects I was most passionate about were also the ones that worked. But objectively, my passion level moved with my success. Success caused passion more than passion caused success.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 306-309 | Hinzugefügt am Donnerstag, 5. Oktober 2017 22:42:32
+
+For example, when I invested in a restaurant with an operating partner, my passion was sky-high. And on day one, when there was a line of customers down the block, I was even more passionate. In later years, as the business got pummeled, my passion evolved into frustration and annoyance. The passion disappeared.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 328-329 | Hinzugefügt am Donnerstag, 5. Oktober 2017 22:44:22
+
+failure is where success likes to hide in plain sight.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 334-334 | Hinzugefügt am Donnerstag, 5. Oktober 2017 22:45:17
+
+I’ve long seen failure as a tool, not an outcome.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 562-565 | Hinzugefügt am Freitag, 13. Oktober 2017 23:07:08
+
+He said that every time he got a new job, he immediately started looking for a better one. For him, job seeking was not something one did when necessary. It was an ongoing process. This makes perfect sense if you do the math. Chances are the best job for you won’t become available at precisely the time you declare yourself ready. Your best bet, he explained, was to always be looking for the better deal. The better deal has its own schedule. I believe the way he explained it is that your job is not your job; your job is to find a better job.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 566-567 | Hinzugefügt am Freitag, 13. Oktober 2017 23:07:30
+
+This was my first exposure to the idea that one should have a system instead of a goal. The system was to continually look for better options. And it worked for this businessman, as he had job-hopped from company to company, gaining experience along the way, until he became a CEO.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 586-590 | Hinzugefügt am Freitag, 13. Oktober 2017 23:09:50
+
+All I’m suggesting is that thinking of goals and systems as very different concepts has power. Goal-oriented people exist in a state of continuous presuccess failure at best, and permanent failure at worst if things never work out. Systems people succeed every time they apply their systems, in the sense that they did what they intended to do. The goals people are fighting the feeling of discouragement at each turn. The systems people are feeling good every time they apply their system. That’s a big difference in terms of maintaining your personal energy in the right direction.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 593-595 | Hinzugefügt am Freitag, 13. Oktober 2017 23:10:25
+
+For our purposes, let’s say a goal is a specific objective that you either achieve or don’t sometime in the future. A system is something you do on a regular basis that increases your odds of happiness in the long run. If you do something every day, it’s a system. If you’re waiting to achieve it
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 599-600 | Hinzugefügt am Freitag, 13. Oktober 2017 23:10:36
+
+have no deadlines, and on any given day you probably can’t tell if they’re moving you in the right direction. My
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 593-595 | Hinzugefügt am Freitag, 13. Oktober 2017 23:10:41
+
+For our purposes, let’s say a goal is a specific objective that you either achieve or don’t sometime in the future. A system is something you do on a regular basis that increases your odds of happiness in the long run. If you do something every day, it’s a system. If you’re waiting to achieve it
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 593-596 | Hinzugefügt am Freitag, 13. Oktober 2017 23:10:43
+
+For our purposes, let’s say a goal is a specific objective that you either achieve or don’t sometime in the future. A system is something you do on a regular basis that increases your odds of happiness in the long run. If you do something every day, it’s a system. If you’re waiting to achieve it someday in the future, it’s a goal.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 801-803 | Hinzugefügt am Sonntag, 29. Oktober 2017 05:16:27
+
+One of the best pieces of advice I’ve ever heard goes something like this: If you want success, figure out the price, then pay it. It sounds trivial and obvious, but if you unpack the idea it has extraordinary power.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 806-811 | Hinzugefügt am Sonntag, 29. Oktober 2017 05:17:10
+
+When you decide to be successful in a big way, it means you acknowledge the price and you’re willing to pay it. That price might be sacrificing your personal life to get good grades in school, pursuing a college major that is deadly boring but lucrative, putting off having kids, missing time with your family, or taking business risks that put you in jeopardy for embarrassment, divorce, or bankruptcy. Successful people don’t wish for success; they decide to pursue it. And to pursue it effectively, they need a system. Success always has a price, but the reality is that the price is negotiable. If you pick the right system, the price will be a lot nearer what you’re willing to pay.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 817-818 | Hinzugefügt am Sonntag, 29. Oktober 2017 05:17:56
+
+For starters, when it comes to the topic of generosity,
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 815-821 | Hinzugefügt am Sonntag, 29. Oktober 2017 05:18:03
+
+During your journey to success you will find yourself continually trying to balance your own needs with the needs of others. You will always wonder if you are being too selfish or not selfish enough. I’m glad I can be here to help you sort it all out. For starters, when it comes to the topic of generosity, there are three kinds of people in the world: Selfish Stupid Burden on others That’s the entire list.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 821-821 | Hinzugefügt am Sonntag, 29. Oktober 2017 05:18:11
+
+Your best option is to be selfish, because being stupid or a burden on society won’t help anyone.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 831-833 | Hinzugefügt am Sonntag, 29. Oktober 2017 05:20:00
+
+The most important form of selfishness involves spending time on your fitness, eating right, pursuing your career, and still spending quality time with your family and friends. If you neglect your health or your career, you slip into the second category—stupid—which is a short slide to becoming a burden on society.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 848-850 | Hinzugefügt am Sonntag, 29. Oktober 2017 05:22:43
+
+Influence works best when the person being influenced has no objection to the suggested change. Often all one needs is some form of permission to initiate a change, and it doesn’t always matter what form the permission is in, or if it even makes sense. I’m sure you already want to be fit and successful and happy. You already want to skip some of your chores at home or at work to take care of your own needs.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 856-860 | Hinzugefügt am Sonntag, 29. Oktober 2017 05:23:57
+
+One of the more interesting surprises for me when I started making more money than I would ever spend is that it automatically changed my priorities. I could afford any car I wanted, but suddenly I didn’t care so much about my possessions beyond the utility they provided. Once all of my personal needs were met, my thoughts automatically turned to how I could make the world a better place. I didn’t plan the transformation. It wasn’t something I thought about and decided to do. It just happened on its own. Apparently humans are wired to take care of their own needs first, then family, tribe, country, and the world, roughly in that order.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 870-878 | Hinzugefügt am Sonntag, 29. Oktober 2017 05:26:01
+
+We humans want many things: good health, financial freedom, accomplishment, a great social life, love, sex, recreation, travel, family, career, and more. The problem with all of this wanting is that the time you spend chasing one of those desires is time you can’t spend chasing any of the others. So how do you organize your limited supply of time to get the best result? The way I approach the problem of multiple priorities is by focusing on just one main metric: my energy. I make choices that maximize my personal energy because that makes it easier to manage all of the other priorities. Maximizing my personal energy means eating right, exercising, avoiding unnecessary stress, getting enough sleep, and all of the obvious steps. But it also means having something in my life that makes me excited to wake up. When I get my personal energy right, the quality of my work is better, and I can complete it faster. That keeps my career on track. And when all of that is working, and I feel relaxed and energetic, my personal life is better too.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 879-884 | Hinzugefügt am Sonntag, 29. Oktober 2017 05:29:36
+
+Cesar’s main trick involved training the humans to control their own emotional states, because dogs can pick up crazy vibes from their owners. When the owners learned to control themselves, the dogs calmed down too. I think this same method applies to humans interacting with other humans. You’ve seen for yourself that when a sad person enters a room, the mood in the room drops. And when you talk to a cheerful person who is full of energy, you automatically feel a boost. I’m suggesting that by becoming a person with good energy, you lift the people around you. That positive change will improve your social life, your love life, your family life, and your career.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 902-907 | Hinzugefügt am Sonntag, 29. Oktober 2017 05:32:02
+
+Managing your personal energy is like managing budgets in a company. In business, every financial decision in one department is connected to others. If the research and development group cuts spending today, eventually that decision will ripple through the organization and reduce profits in some future year. Similarly, when you manage your personal energy, it’s not enough to maximize it in the short run or in one defined area. Ideally, you want to manage your personal energy for the long term and the big picture. Having one more cocktail at midnight might be an energy boost at the time, but you pay for it double the next day. At this point in the book, allow me
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 902-907 | Hinzugefügt am Sonntag, 29. Oktober 2017 05:32:09
+
+Managing your personal energy is like managing budgets in a company. In business, every financial decision in one department is connected to others. If the research and development group cuts spending today, eventually that decision will ripple through the organization and reduce profits in some future year. Similarly, when you manage your personal energy, it’s not enough to maximize it in the short run or in one defined area. Ideally, you want to manage your personal energy for the long term and the big picture. Having one more cocktail at midnight might be an energy boost at the time, but you pay for it double the next day.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 909-909 | Hinzugefügt am Sonntag, 29. Oktober 2017 05:32:31
+
+personal energy as an organizing principle
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 919-922 | Hinzugefügt am Sonntag, 29. Oktober 2017 05:34:01
+
+You have the same paradox with personal energy. If you look at any individual action that boosts your personal energy, it might look like selfishness. Why are you going skiing when you should be working at the homeless shelter, you selfish bastard! My proposition is that organizing your life to optimize your personal energy will add up to something incredible that is more good than bad.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 929-930 | Hinzugefügt am Sonntag, 29. Oktober 2017 05:35:05
+
+I know from experience that trying to be creative in the midafternoon is a waste of time. By 2:00 P.M. all I can do is regurgitate the ideas I’ve seen elsewhere. At 6:00 A.M. I’m a creator, and by 2:00 P.M. I’m a copier.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 991-992 | Hinzugefügt am Sonntag, 29. Oktober 2017 05:43:35
+
+willpower in reserve to follow complicated plans.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 991-992 | Hinzugefügt am Sonntag, 29. Oktober 2017 05:43:39
+
+willpower in reserve to follow complicated plans.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 1075-1083 | Hinzugefügt am Sonntag, 29. Oktober 2017 06:05:43
+
+I would define an asshole as anyone who chooses to make the lives of others less pleasant for reasons that don’t appear productive or necessary. Asshole behaviors: Changing the subject to him/herself Dominating conversation Bragging Cheating, lying Disagreeing with any suggestion, no matter how trivial Using honesty as a justification for cruelty Withholding simple favors out of some warped sense of social justice Abandoning the rules of civil behavior, such as saying hello or making eye contact
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 1087-1094 | Hinzugefügt am Sonntag, 29. Oktober 2017 06:07:16
+
+It’s useful to think of your priorities in terms of concentric circles, like an archery target. In the center is your highest priority: you. If you ruin yourself, you won’t be able to work on any other priorities. So taking care of your own health is job one. The next ring—and your second-biggest priority—is economics. That includes your job, your investments, and even your house. You might wince at the fact that I put economics ahead of your family, your friends, and the rest of the world, but there’s a reason. If you don’t get your personal financial engine working right, you place a burden on everyone from your family to the country. Once you are both healthy and financially sound, it’s time for the third ring: family, friends, and lovers. Good health and sufficient money are necessary for a base level of happiness, but you need to be right with your family, friends, and
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 1087-1094 | Hinzugefügt am Sonntag, 29. Oktober 2017 06:07:21
+
+It’s useful to think of your priorities in terms of concentric circles, like an archery target. In the center is your highest priority: you. If you ruin yourself, you won’t be able to work on any other priorities. So taking care of your own health is job one. The next ring—and your second-biggest priority—is economics. That includes your job, your investments, and even your house. You might wince at the fact that I put economics ahead of your family, your friends, and the rest of the world, but there’s a reason. If you don’t get your personal financial engine working right, you place a burden on everyone from your family to the country. Once you are both healthy and financially sound, it’s time for the third ring: family, friends, and lovers. Good health and sufficient money are necessary for a base level of happiness, but you need to be right with your family, friends, and romantic partners to truly enjoy life.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 1094-1095 | Hinzugefügt am Sonntag, 29. Oktober 2017 06:07:36
+
+The next rings are your local community, your country, and the world, in that order. Don’t bother trying to fix the world until you get the inner
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 1094-1096 | Hinzugefügt am Sonntag, 29. Oktober 2017 06:07:53
+
+The next rings are your local community, your country, and the world, in that order. Don’t bother trying to fix the world until you get the inner circles of your priorities under control.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 1111-1112 | Hinzugefügt am Sonntag, 29. Oktober 2017 14:45:41
+
+Priorities are the things you need to get right so the things you love can thrive.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 1114-1118 | Hinzugefügt am Sonntag, 29. Oktober 2017 14:46:32
+
+Your brain is wired to continuously analyze your environment, your thoughts, and your health and to use that information to generate a sensation you call your attitude. You know from experience that you do better work, and you more enjoy life, when your attitude is good. If you could control your attitude directly, as opposed to letting the environment dictate how you feel on any given day, it would be like a minor superpower. It turns out you have that superpower. You can control your attitude by manipulating your thoughts, your body, and your environment.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 1131-1132 | Hinzugefügt am Sonntag, 29. Oktober 2017 14:48:31
+
+This is the same reasoning for why you should avoid exposure to too much news of the depressing type and why it’s a good idea to avoid music, books, and movies that are downers.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 1129-1132 | Hinzugefügt am Sonntag, 29. Oktober 2017 14:48:41
+
+Putting yourself in that imagination-fueled frame of mind will pep you up. Imagination is the interface to your attitude. You can literally imagine yourself to higher levels of energy. This is the same reasoning for why you should avoid exposure to too much news of the depressing type and why it’s a good idea to avoid music, books, and movies that are downers.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 1156-1158 | Hinzugefügt am Sonntag, 29. Oktober 2017 14:51:47
+
+Another benefit of having a big, world-changing project is that you almost always end up learning something valuable in the process of failing. And fail you will, most of the time, so long as you are dreaming big. But remember, goals are for losers anyway. It’s smarter to see your big-idea projects as part of a system to
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 1256-1257 | Hinzugefügt am Montag, 30. Oktober 2017 11:37:52
+
+By reading this book you’ve established yourself as a seeker of knowledge. Seekers obviously find more stuff than the people who sit and wait. Your decision to read this book is confirmation that you are a person of action who has a desire to be more effective. I’m
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 1256-1257 | Hinzugefügt am Montag, 30. Oktober 2017 11:37:56
+
+By reading this book you’ve established yourself as a seeker of knowledge. Seekers obviously find more stuff than the people who sit and wait. Your decision to read this book is confirmation that you are a person of action who has a desire to be more effective. I’m
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 1256-1258 | Hinzugefügt am Montag, 30. Oktober 2017 11:38:02
+
+By reading this book you’ve established yourself as a seeker of knowledge. Seekers obviously find more stuff than the people who sit and wait. Your decision to read this book is confirmation that you are a person of action who has a desire to be more effective. I’m reinforcing that thought to help lock it
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 1256-1257 | Hinzugefügt am Montag, 30. Oktober 2017 11:38:07
+
+By reading this book you’ve established yourself as a seeker of knowledge. Seekers obviously find more stuff than the people who sit and wait. Your decision to read this book is confirmation that you are a person of action who has a desire to be more effective.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 1268-1271 | Hinzugefügt am Montag, 30. Oktober 2017 11:40:27
+
+In my corporate career I often marveled at how people changed as soon as they got promoted from worker bees to management. I saw one of my coworkers transform from a hesitant and unimpressive personality to confidence and power within two months of his promotion. Obviously there was some acting involved, but we are designed to become in reality however we act. We fake it until it becomes real. Our core personality doesn’t change, but we quickly adopt the mannerisms and skills associated with our new status and position.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 1438-1443 | Hinzugefügt am Montag, 30. Oktober 2017 14:11:25
+
+The smartest system for discerning your best path to success involves trying lots of different things—sampling, if you will. For entrepreneurial ventures it might mean quickly bailing out if things don’t come together quickly. That approach might conflict with the advice you’ve heard all your life—that sticking with something, no matter the obstacles, is important to success. Indeed, most successful people had to chew through a wall at some point. Overcoming obstacles is normally an unavoidable part of the process. But you also need to know when to quit. Persistence is useful, but there’s no point in being an idiot about it.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 1444-1446 | Hinzugefügt am Montag, 30. Oktober 2017 14:11:58
+
+There have been times I stuck with bad ideas for far too long out of a misguided sense that persistence is a virtue. The pattern I noticed was this: Things that will someday work out well start out well. Things that will never work start out bad and stay that way.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 1446-1447 | Hinzugefügt am Montag, 30. Oktober 2017 14:12:13
+
+What you rarely see is a stillborn failure that transmogrifies into a stellar success. Small successes can grow into big ones, but failures rarely grow into successes.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 1487-1489 | Hinzugefügt am Montag, 30. Oktober 2017 14:18:15
+
+Back to my point, the enthusiasm model, if I may call it that, is a bit like the x factor. It’s the elusive and hard-to-predict quality of a thing that makes some percentage of the public nuts about it. When the x factor is present, the public—or some subset of the public—picks up on it right away.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 1493-1499 | Hinzugefügt am Montag, 30. Oktober 2017 14:18:49
+
+One of the best ways to detect the x factor is to watch what customers do about your idea or product, not what they say. People tend to say what they think you want to hear or what they think will cause the least pain. What people do is far more honest. For example, with comics, a good test of potential is whether people stick the comic to the refrigerator, tweet it, e-mail it to friends, put it on a blog page, or do anything else active. You might be tempted to think that sometimes an idea with no x factor and no enthusiastic fans can gain those qualities over time. I’m sure it’s happened, but I can’t think of an example in my life. It’s generally true that if no one is excited about your art/product/idea in the beginning, they never will be.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 1499-1501 | Hinzugefügt am Montag, 30. Oktober 2017 14:18:58
+
+If the first commercial version of your work excites no one to action, it’s time to move on to something different. Don’t be fooled by the opinions of friends and family. They’re all liars.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 1501-1502 | Hinzugefügt am Montag, 30. Oktober 2017 14:19:10
+
+If your work inspires some excitement and some action from customers, get ready to chew through some walls. You might have something worth fighting for.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 1581-1583 | Hinzugefügt am Montag, 30. Oktober 2017 14:35:40
+
+My combined mediocre skills are worth far more than the sum of the parts. If you think extraordinary talent and a maniacal pursuit of excellence are necessary for success, I say that’s just one approach, and probably the hardest. When it comes to skills, quantity often beats quality.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 1614-1616 | Hinzugefügt am Montag, 30. Oktober 2017 14:37:31
+
+The formula for knowledge looks something like this: The Knowledge Formula: The More You Know, the More You Can Know If your experience of reading the news is that it’s always boring, you’re doing it wrong.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 1616-1617 | Hinzugefügt am Montag, 30. Oktober 2017 14:37:40
+
+The simple entry point for developing a news-reading habit is that you read only the topics that interest you, no matter how trivial they might be.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 1627-1629 | Hinzugefügt am Montag, 30. Oktober 2017 14:39:15
+
+I don’t read the news to find truth, as that would be a foolish waste of time. I read the news to broaden my exposure to new topics and patterns that make my brain more efficient in general and to enjoy myself, because learning interesting things increases my energy and makes me feel optimistic. Don’t think of the news as information. Think of it as a source of energy.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 1735-1740 | Hinzugefügt am Montag, 30. Oktober 2017 14:48:53
+
+There are several things to learn from that story. The most important is the transformative power of praise versus the corrosive impact of criticism. I’ve had a number of occasions since then to test the powers of praise, and I find it an amazing force, especially for adults. Children are accustomed to a continual stream of criticisms and praise, but adults can go weeks without a compliment while enduring criticism both at work and at home. Adults are starved for a kind word. When you understand the power of honest praise (as opposed to bullshitting, flattery, and sucking up), you realize that withholding it borders on immoral. If you see something that impresses you, a decent respect to humanity insists you voice your praise.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 1820-1823 | Hinzugefügt am Dienstag, 31. Oktober 2017 00:28:05
+
+Below is Wikipedia’s list of cognitive biases.1 It looks like a lot to know, but you have your entire life to acquire the knowledge. Think of it as a system in which you learn a bit every year. That will be easier if you understand how important psychology is to everything you want to accomplish in life. On a scale of one to ten, the importance of understanding psychology is a solid ten.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 1833-1834 | Hinzugefügt am Dienstag, 31. Oktober 2017 00:28:48
+
+I didn’t want to be in the business of selling my time.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 1857-1858 | Hinzugefügt am Dienstag, 31. Oktober 2017 00:32:21
+
+It is tremendously useful to know when people are using reason and when they are rationalizing the irrational. You’re wasting your time if you try to make someone see reason when reason is not influencing the decision.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 1860-1864 | Hinzugefügt am Dienstag, 31. Oktober 2017 00:33:44
+
+When politicians tell lies, they know the press will call them out. They also know it doesn’t matter. Politicians understand that reason will never have much of a role in voting decisions. A lie that makes a voter feel good is more effective than a hundred rational arguments. That’s even true when the voter knows the lie is a lie. If you’re perplexed at how society can tolerate politicians who lie so blatantly, you’re thinking of people as rational beings. That worldview is frustrating and limiting. People who study hypnosis start to view humans as moist machines that are simply responding to inputs with programmed outputs.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 1855-1856 | Hinzugefügt am Dienstag, 31. Oktober 2017 00:34:07
+
+Our powers of reason did some due diligence to make sure it met our basic requirements, but we already knew it would. The purchase was an irrational decision that tried, and failed, to
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 1855-1855 | Hinzugefügt am Dienstag, 31. Oktober 2017 00:34:23
+
+Our powers of reason did some due diligence to make sure it met our basic requirements, but we already knew it would.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 1866-1868 | Hinzugefügt am Dienstag, 31. Oktober 2017 00:34:41
+
+If your view of the world is that people use reason for their important decisions, you are setting yourself up for a life of frustration and confusion. You’ll find yourself continually debating people and never winning except in your own mind. Few things are as destructive and limiting as a worldview that assumes people are mostly rational.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 1902-1903 | Hinzugefügt am Dienstag, 31. Oktober 2017 00:39:07
+
+As it turns out, business writing is all about getting to the point and leaving out all of the noise. You think you already do that in your writing, but you probably don’t.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 1902-1907 | Hinzugefügt am Dienstag, 31. Oktober 2017 00:39:20
+
+As it turns out, business writing is all about getting to the point and leaving out all of the noise. You think you already do that in your writing, but you probably don’t. Consider the previous sentence. I intentionally embedded some noise. Did you catch it? The sentence that starts with “You think you already do that” includes the unnecessary word “already.” Remove it and you get exactly the same meaning: “You think you do that.” The “already” part is assumed and unnecessary. That sort of realization is the foundation of business writing. Business
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 1902-1906 | Hinzugefügt am Dienstag, 31. Oktober 2017 00:39:37
+
+As it turns out, business writing is all about getting to the point and leaving out all of the noise. You think you already do that in your writing, but you probably don’t. Consider the previous sentence. I intentionally embedded some noise. Did you catch it? The sentence that starts with “You think you already do that” includes the unnecessary word “already.” Remove it and you get exactly the same meaning: “You think you do that.” The “already” part is assumed and unnecessary. That sort of realization is the foundation of business writing.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 2113-2115 | Hinzugefügt am Dienstag, 31. Oktober 2017 00:52:28
+
+When you talk about the hypothetical future, use “were” instead of “was.” Don’t say, “If I was to go with you, I would enjoy myself.” Say, “If I were to go with you, I would enjoy myself.” This rule of grammar is a big one. If you get “were”/“was” grammar wrong, it’s a red flag to people who know the difference.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 2138-2141 | Hinzugefügt am Dienstag, 31. Oktober 2017 00:54:10
+
+Nonscientists often use the word “theory” when they should say “hypothesis.” Without getting too technical, a theory is a scientific explanation of reality that is so well tested that it is as good as a fact. The correct term for an unproven and untested explanation is “hypothesis.” For example, I think it is possible that humans are the result of aliens seeding Earth with life that evolved over millions of years. I have no evidence for that idea, so it’s merely a hypothesis.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 2241-2244 | Hinzugefügt am Dienstag, 31. Oktober 2017 00:57:15
+
+Insanity In most groups the craziest person is in control. It starts because no one wants the problems that come from pissing off a crazy person. It’s just smarter and easier sometimes to let the crazy person have his or her way. Crazy people
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 2241-2244 | Hinzugefügt am Dienstag, 31. Oktober 2017 00:57:17
+
+Insanity In most groups the craziest person is in control. It starts because no one wants the problems that come from pissing off a crazy person. It’s just smarter and easier sometimes to let the crazy person have his or her way. Crazy people
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 2241-2243 | Hinzugefügt am Dienstag, 31. Oktober 2017 00:57:23
+
+Insanity In most groups the craziest person is in control. It starts because no one wants the problems that come from pissing off a crazy person. It’s just smarter and easier sometimes to let the crazy person have his or her way.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 2301-2305 | Hinzugefügt am Dienstag, 31. Oktober 2017 06:07:55
+
+Proper breathing has lots of other benefits, including stress reduction, increased and more efficient metabolism, and better physical stamina, so it’s worth learning.8 If you put your hand on your belly button and breathe correctly, that’s the only part of your torso that should be rising and falling. If your upper chest is expanding when you breathe normally, you’re doing it wrong. When you get your breathing right, your words will come out sounding more confident.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 2344-2352 | Hinzugefügt am Dienstag, 31. Oktober 2017 06:12:33
+
+Stephen Covey was probably the most famous of the success-by-pattern gurus. His book The Seven Habits of Highly Effective People sold more than twenty-five million copies. I think Covey described a good set of patterns for people to follow, but they are only a start. I’ll summarize his seven habits and suggest you read his books if you want more. Be proactive. Begin with the end in mind. (Imagine a good outcome.) Put first things first. (Set priorities.) Think win-win. (Don’t be greedy.) Seek first to understand then be understood. Synergize. (Use teamwork.) Sharpen the saw. (Keep learning.)
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 2355-2361 | Hinzugefügt am Dienstag, 31. Oktober 2017 06:13:11
+
+Here’s my own list of the important patterns for success that I’ve noticed over the years. This is purely anecdotal. I exclude the ones that are 100 percent genetic. Lack of fear of embarrassment Education (the right kind) Exercise A lack of fear of embarrassment is what allows one to be proactive. It’s what makes a person take on challenges that others write off as too risky. It’s what makes you take the first step before you know what the second step is. I’m not a fan of physical risks, but if you can’t handle the risk of embarrassment, rejection, and failure, you need to learn how, and studies suggest that is indeed a learnable skill.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 2369-2372 | Hinzugefügt am Dienstag, 31. Oktober 2017 06:14:31
+
+The next pattern I’ve noticed is exercise. Good health is a baseline requirement for success. But I’m not talking about the obvious fact that sick people can’t get much done. I’m talking about the extra energy and vitality that good health brings. I might be getting the correlation wrong, and perhaps whatever motivates a person to succeed also motivates that person to maintain an exercise schedule. But
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 2369-2372 | Hinzugefügt am Dienstag, 31. Oktober 2017 06:14:41
+
+The next pattern I’ve noticed is exercise. Good health is a baseline requirement for success. But I’m not talking about the obvious fact that sick people can’t get much done. I’m talking about the extra energy and vitality that good health brings. I might be getting the correlation wrong, and perhaps whatever motivates a person to succeed also motivates that person to maintain an exercise schedule.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 2699-2703 | Hinzugefügt am Dienstag, 31. Oktober 2017 06:58:17
+
+Humans are social animals. There are probably dozens of ways we absorb energy, inspiration, skills, and character traits from those around us. Sometimes we learn by example. Sometimes success appears more approachable and ordinary because we see normal people achieve it, and perhaps that encourages us to pursue schemes with higher payoffs. Sometimes the people around us give us information we need, or encouragement, or contacts, or even useful criticism. We can’t always know the mechanism by which others change our future actions, but it’s pretty clear it happens, and it’s important.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 2705-2707 | Hinzugefügt am Dienstag, 31. Oktober 2017 06:58:35
+
+And I advise you to consider this fact a primary tool for programming your moist-robot self. The programming interface is your location. To change yourself, part of the solution might involve spending more time with the people who represent the change you seek.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 2759-2760 | Hinzugefügt am Dienstag, 31. Oktober 2017 07:03:23
+
+By any definition, what I’m doing is work, but because I can control the timing of it on this particular day, it doesn’t feel like work. I’ve transformed work into pleasure simply by having control over when I do it.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 2765-2765 | Hinzugefügt am Dienstag, 31. Oktober 2017 07:04:39
+
+Happiness has more to do with where you’re heading than where you are.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 2767-2769 | Hinzugefügt am Dienstag, 31. Oktober 2017 07:04:56
+
+We tend to feel happy when things are moving in the right direction and unhappy when things are trending bad. The directional nature of happiness is one reason it’s a good idea to have a sport or hobby that leaves you plenty of room to improve every year.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 2770-2771 | Hinzugefügt am Dienstag, 31. Oktober 2017 07:05:13
+
+Slow and steady improvement at anything makes you feel that you are on the right track. The feeling of progress stimulates your body to create the chemicals that make you feel happy.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 2779-2779 | Hinzugefügt am Dienstag, 31. Oktober 2017 07:06:40
+
+find it useful to daydream that the future will be better than today, by far. I like to
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 2778-2779 | Hinzugefügt am Dienstag, 31. Oktober 2017 07:06:43
+
+now. I find it useful to daydream that the future will be better than today, by far. I like to
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 2779-2779 | Hinzugefügt am Dienstag, 31. Oktober 2017 07:06:49
+
+future will be better than today, by far. I like to
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 2779-2781 | Hinzugefügt am Dienstag, 31. Oktober 2017 07:06:57
+
+I find it useful to daydream that the future will be better than today, by far. I like to imagine a future that is spectacular and breathtaking. The daydreams need not be accurate in terms of predicting the future. Simply imagining a better future hacks your brain chemistry and provides you with the sensation of happiness today.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 2808-2809 | Hinzugefügt am Dienstag, 31. Oktober 2017 07:25:49
+
+Of the big five factors in happiness—flexible schedule, imagination, diet, exercise, and sleep—my pick for the most important is exercise.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 2838-2846 | Hinzugefügt am Dienstag, 31. Oktober 2017 07:28:15
+
+Recapping the happiness formula: Eat right. Exercise. Get enough sleep. Imagine an incredible future (even if you don’t believe it). Work toward a flexible schedule. Do things you can steadily improve at. Help others (if you’ve already helped yourself). Reduce daily decisions to routine.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 3078-3087 | Hinzugefügt am Dienstag, 31. Oktober 2017 07:39:35
+
+I can eat as much as I want of the foods on this list, which I quite enjoy, and I won’t gain a pound as long as I stay active. Bananas Protein bars Peanuts Mixed nuts Cheese Whole wheat pasta Edamame (soybeans) Broccoli Cauliflower Brussels sprouts Fish Lettuce Tomatoes Apples Pears Carrots Radishes Cucumbers Quinoa Brown rice Berries
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 3290-3293 | Hinzugefügt am Mittwoch, 1. November 2017 23:51:56
+
+My challenge in this chapter is to convince you that if you get one simple thing right—being active every day—all of the other elements of fitness will come together naturally without the need to use up your limited supply of willpower. That last part is the key. In my experience, any form of exercise that requires willpower is unsustainable.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 3316-3316 | Hinzugefügt am Mittwoch, 1. November 2017 23:54:08
+
+In the long run, any system that depends on your willpower will fail.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 3316-3317 | Hinzugefügt am Mittwoch, 1. November 2017 23:54:20
+
+Or worse, some other part of your life will suffer as you focus your limited stockpile of willpower on fitness.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 3316-3317 | Hinzugefügt am Mittwoch, 1. November 2017 23:54:27
+
+In the long run, any system that depends on your willpower will fail. Or worse, some other part of your life will suffer as you focus your limited stockpile of willpower on fitness.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 3389-3391 | Hinzugefügt am Mittwoch, 1. November 2017 23:58:30
+
+I find it important to reward myself after exercise with a healthy snack that I enjoy, some downtime that involves reading interesting articles on my phone, or a nice cup of coffee. By putting those pleasures at the immediate end of my exercise, I develop a strong association between the exercise and the good feelings. It forms a habit.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 3540-3541 | Hinzugefügt am Donnerstag, 2. November 2017 00:09:26
+
+Another big part of my system involves generating lots of opportunities for luck to find me and taking the sort of risks that will allow me to come out ahead even if the project fails.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 3539-3541 | Hinzugefügt am Donnerstag, 2. November 2017 00:09:34
+
+So the first part of my system involves managing my mental and physical states so I can do more things with the right kind of energy. Another big part of my system involves generating lots of opportunities for luck to find me and taking the sort of risks that will allow me to come out ahead even if the project fails.
+==========
+How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life (Scott Adams)
+- Ihre Markierung bei Position 3682-3683 | Hinzugefügt am Donnerstag, 2. November 2017 00:21:07
+
+And always remember that failure is your friend. It is the raw material of success. Invite it in. Learn from it. And don’t let it leave until you pick its pocket. That’s a system.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 66-69 | Hinzugefügt am Donnerstag, 2. November 2017 00:26:03
+
+I believe that having principles that work is essential for getting what we want out of life. I also believe that to understand each other we have to understand each other’s principles.[3] That is why I believe we need to talk about them.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 77-79 | Hinzugefügt am Donnerstag, 2. November 2017 00:27:01
+
+Your values are what you consider important, literally what you “value.” Principles are what allow you to live a life consistent with those values. Principles connect your values to your actions; they are beacons that guide your actions, and help you successfully deal with the laws of reality. It is to your principles that you turn when you face hard choices.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 93-95 | Hinzugefügt am Donnerstag, 2. November 2017 00:28:43
+
+Your principles will determine your standards of behavior. When you enter into relationships with other people, your and their principles will determine how you interact. People who have shared values and principles get along. People who don’t will suffer through constant misunderstandings and conflict with one another. Too often in relationships, people’s principles are unclear.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 120-121 | Hinzugefügt am Donnerstag, 2. November 2017 00:32:20
+
+Time is like a river that will take you forward into encounters with reality that will require you to make decisions. You can’t stop the movement down this river, and you can’t avoid the encounters. You can only approach these encounters in the best way possible.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 145-146 | Hinzugefügt am Donnerstag, 2. November 2017 00:34:36
+
+3) The consensus is often wrong, so I have to be an independent thinker. To make any money,
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 145-146 | Hinzugefügt am Donnerstag, 2. November 2017 00:34:42
+
+3) The consensus is often wrong, so I have to be an independent thinker. To make any money, you have to be right when they’re wrong.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 143-144 | Hinzugefügt am Donnerstag, 2. November 2017 00:34:53
+
+2) Bad opinions can be very costly. Most people come up with opinions and there’s no cost to them.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 147-149 | Hinzugefügt am Donnerstag, 2. November 2017 00:35:19
+
+I worked for what I wanted, not for what others wanted me to do. For that reason, I never felt that I had to do anything. All the work I ever did was just what I needed to do to get what I wanted. Since I always had the prerogative to not strive for what I wanted, I never felt forced to do anything.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 155-155 | Hinzugefügt am Donnerstag, 2. November 2017 00:36:01
+
+I stress-tested my opinions by having the smartest people I could find challenge them so I could find out where I was wrong.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 227-229 | Hinzugefügt am Donnerstag, 2. November 2017 01:18:51
+
+I met a number of great people and learned that none of them were born great—they all made lots of mistakes and had lots weaknesses—and that great people become great by looking at their mistakes and weaknesses and figuring out how to get around them.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 278-281 | Hinzugefügt am Donnerstag, 2. November 2017 01:23:00
+
+Success is achieved by people who deeply understand reality and know how to use it to get what they want. The converse is also true: idealists who are not well-grounded in reality create problems, not progress. For example, communism was a system created by people with good intentions who failed to recognize that their idealistic system was inconsistent with human nature. As a result, they caused more harm than good.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 282-284 | Hinzugefügt am Donnerstag, 2. November 2017 01:23:09
+
+Truth  —more precisely, an accurate understanding of reality— is the essential foundation for producing good outcomes.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 299-301 | Hinzugefügt am Donnerstag, 2. November 2017 01:25:09
+
+I believe that we all get rewarded and punished according to whether we operate in harmony or in conflict with nature’s laws, and that all societies will succeed or fail in the degrees that they operate consistently with these laws.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 319-319 | Hinzugefügt am Donnerstag, 2. November 2017 01:27:00
+
+I believe that the desire to evolve, i.e., to get better, is probably humanity’s most pervasive driving force.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 378-379 | Hinzugefügt am Donnerstag, 2. November 2017 01:33:28
+
+However, typically defensive, emotional reactions—i.e., ego barriers—stand in the way of this progress. These reactions take place in the part of the brain called the amygdala.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 380-382 | Hinzugefügt am Donnerstag, 2. November 2017 01:33:51
+
+Most people especially dislike others exploring their weaknesses because it makes them feel attacked, which produces fight or flight reactions; however, having others help one find one’s weaknesses is essential because it’s very difficult to identify one’s own.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 386-388 | Hinzugefügt am Donnerstag, 2. November 2017 01:34:25
+
+Some people get over the ego barrier and others don’t. Which path they choose, more than anything else, determines how good their outcomes are. Aristotle defined tragedy as a bad outcome for a person because of a fatal flaw that he can’t get around. So it is tragic when people let ego barriers lead them to experience bad outcomes.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 391-392 | Hinzugefügt am Donnerstag, 2. November 2017 01:34:41
+
+As I mentioned before, I believe that life consists of an enormous number of choices that come at us and that each decision we make has consequences, so the quality of our lives depends on the quality of the decisions we make.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 400-403 | Hinzugefügt am Donnerstag, 2. November 2017 01:35:36
+
+In short: Reality + Dreams + Determination = A Successful Life
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 445-446 | Hinzugefügt am Donnerstag, 2. November 2017 01:40:10
+
+Pain + Reflection = Progress How big of an impediment is psychological
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 445-445 | Hinzugefügt am Donnerstag, 2. November 2017 01:40:16
+
+Pain + Reflection = Progress
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 449-450 | Hinzugefügt am Donnerstag, 2. November 2017 01:40:41
+
+People who confuse what they wish were true with what is really true create distorted pictures of reality that make it impossible for them to make the best choices.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 449-452 | Hinzugefügt am Donnerstag, 2. November 2017 01:41:02
+
+People who confuse what they wish were true with what is really true create distorted pictures of reality that make it impossible for them to make the best choices. They typically do this because facing “harsh realities” can be very difficult. However, by not facing these harsh realities, they don’t find ways of properly dealing with them. And because their decisions are not based in reality, they can’t anticipate the consequences of their decisions.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 453-454 | Hinzugefügt am Donnerstag, 2. November 2017 01:41:10
+
+In contrast, people who know that understanding what is real is the first step toward optimally dealing with it make better decisions.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 461-462 | Hinzugefügt am Donnerstag, 2. November 2017 01:42:11
+
+These people typically try to prove that they have the answers, even when they really don’t. Why do they behave in this unproductive way? They typically believe the senseless but common view that great people are those who have the answers in their heads and don’t have weaknesses.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 510-512 | Hinzugefügt am Donnerstag, 2. November 2017 01:46:33
+
+Character is the ability to get one’s self to do the difficult things that produce the desired results. In other words, I believe that for the most part, achieving success—whatever that is for you—is mostly a matter of personal choice and that, initially, making the right choices can be difficult.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 535-537 | Hinzugefügt am Donnerstag, 2. November 2017 01:49:12
+
+I call it “higher level thinking” because your perspective is of one who is looking down on at your machine and yourself objectively, using the feedback loop as I previously described.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 539-541 | Hinzugefügt am Donnerstag, 2. November 2017 01:49:58
+
+Think of it as though there are two yous—you as the designer and overseer of the plan to achieve your goals (let’s call that one you(1)) and you as one of the participants in pursuing that mission (which we will call you(2)). You(2) are a resource that you(1) have to get what you(1) want, but by no means your only resource. To be successful you(1) have to be objective about you(2).
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 549-551 | Hinzugefügt am Donnerstag, 2. November 2017 01:50:44
+
+The biggest mistake most people make is to not see themselves and others objectively. If they could just get around this, they could live up to their potentials.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 552-552 | Hinzugefügt am Donnerstag, 2. November 2017 01:50:49
+
+How good are you in approaching life as a “higher level thinker” rather than as a doer?
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 568-572 | Hinzugefügt am Freitag, 3. November 2017 01:51:51
+
+In other words, “The Process” consists of five distinct steps: Have clear goals. Identify and don’t tolerate the problems that stand in the way of achieving your goals. Accurately diagnose these problems. Design plans that explicitly lay out tasks that will get you around your problems and on to your goals. Implement these plans—i.e., do these tasks.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 568-572 | Hinzugefügt am Freitag, 3. November 2017 01:52:08
+
+In other words, “The Process” consists of five distinct steps: Have clear goals. Identify and don’t tolerate the problems that stand in the way of achieving your goals. Accurately diagnose these problems. Design plans that explicitly lay out tasks that will get you around your problems and on to your goals. Implement these plans—i.e., do these tasks.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 568-572 | Hinzugefügt am Freitag, 3. November 2017 01:55:19
+
+In other words, “The Process” consists of five distinct steps: Have clear goals. Identify and don’t tolerate the problems that stand in the way of achieving your goals. Accurately diagnose these problems. Design plans that explicitly lay out tasks that will get you around your problems and on to your goals. Implement these plans—i.e., do these tasks.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 628-630 | Hinzugefügt am Freitag, 3. November 2017 01:57:35
+
+Put another way, to achieve your goals you have to prioritize, and that includes rejecting good alternatives (so that you have the time and resources to pursue even better ones—time being probably your greatest limiting factor, though, through leverage, you can substantially reduce time’s constraints).
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 630-640 | Hinzugefügt am Freitag, 3. November 2017 01:57:56
+
+It is important not to confuse “goals” and “desires.” Goals are the things that you really want to achieve, while desires are things you want that can prevent you from reaching your goals—as I previously explained, desires are typically first-order consequences. For example, a goal might be physical fitness, while a desire is the urge to eat good-tasting, unhealthy food (i.e., a first-order consequence) that could undermine you obtaining your fitness goal. So, in terms of the consequences they produce, goals are good and desires are bad.[41] Don’t get me wrong; I believe you can choose to pursue any goal you want as long as you consider the consequences. So, staying with this example, I think it is perfectly OK for you to make your goal to enjoy eating good-tasting, unhealthy food if that choice will bring you what you really want. As I said earlier, if you want to be a couch potato, that’s fine with me—seriously. But if that’s not what you want, you better not open that bag of chips. In other words, failing to make the distinction between goals and desires will lead you in the wrong direction, because you will be inclined to pursue things you want that will undermine your ability to get things you want more. In short, you can pursue anything
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 630-635 | Hinzugefügt am Freitag, 3. November 2017 01:58:18
+
+It is important not to confuse “goals” and “desires.” Goals are the things that you really want to achieve, while desires are things you want that can prevent you from reaching your goals—as I previously explained, desires are typically first-order consequences. For example, a goal might be physical fitness, while a desire is the urge to eat good-tasting, unhealthy food (i.e., a first-order consequence) that could undermine you obtaining your fitness goal. So, in terms of the consequences they produce, goals are good and desires are bad.[41]
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 642-643 | Hinzugefügt am Freitag, 3. November 2017 01:59:09
+
+Avoid setting goals based on what you think you can achieve.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 642-646 | Hinzugefügt am Freitag, 3. November 2017 01:59:29
+
+Avoid setting goals based on what you think you can achieve. As I said before, do each step separately and distinctly without regard to the others. In this case, that means don’t rule out a goal due to a superficial assessment of its attainability. Once you commit to a goal, it might take lots of thinking and many revisions to your plan over a considerable time period in order to finalize the design and do the tasks to achieve it. So you need to set goals without yet assessing whether or not you can achieve them.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 707-708 | Hinzugefügt am Freitag, 3. November 2017 02:04:27
+
+Remember that identifying problems is like finding gems embedded in puzzles; if you solve the puzzles you will get the gems that will make your life much better. Doing this continuously will lead to your rapid evolution.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 707-708 | Hinzugefügt am Freitag, 3. November 2017 02:04:31
+
+Remember that identifying problems is like finding gems embedded in puzzles; if you solve the puzzles you will get the gems that will make your life much better. Doing
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 707-708 | Hinzugefügt am Freitag, 3. November 2017 02:04:41
+
+Remember that identifying problems is like finding gems embedded in puzzles; if you solve the puzzles you will get the gems that will make your life much better.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 727-731 | Hinzugefügt am Freitag, 3. November 2017 02:06:44
+
+Tolerating problems might be due to not thinking that they can be solved, or not caring enough about solving them.[47] People who tolerate problems are the worse off because, without the motivation to move on, they cannot succeed. In other words, if you are motivated, you can succeed even if you don’t have the abilities (i.e., talents and skills) because you can get the help from others. But if you’re not motivated to succeed, if you don’t have the will to succeed, the situation is hopeless.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 753-759 | Hinzugefügt am Freitag, 3. November 2017 02:08:34
+
+Proximate causes typically are the actions or lack of actions that lead to problems—e.g., “I missed the train because I didn’t check the train schedule.” So proximate causes are typically described via verbs. Root causes are the deeper reasons behind the proximate cause: “I didn’t check the schedule because I am forgetful”—a root cause. Root causes are typically described with adjectives, usually characteristics about what the person is like that lead them to an action or an inaction. Identifying the real root causes of your problems is essential because you can eliminate your problems only by removing their root causes. In other words, you must understand, accept, and successfully deal with reality in order to move toward your goals.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 767-768 | Hinzugefügt am Freitag, 3. November 2017 02:09:49
+
+I call the pain that comes from looking at yourself and others objectively “growing pains,” because
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 767-768 | Hinzugefügt am Freitag, 3. November 2017 02:09:54
+
+I call the pain that comes from looking at yourself and others objectively “growing pains,” because it is the pain that accompanies personal growth.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 795-797 | Hinzugefügt am Freitag, 3. November 2017 02:12:03
+
+Creating a design is like writing a movie script in that you visualize who will do what through time in order to achieve the goal. Visualize the goal or problem standing in your way, and then visualize practical solutions. When
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 795-798 | Hinzugefügt am Freitag, 3. November 2017 02:12:10
+
+Creating a design is like writing a movie script in that you visualize who will do what through time in order to achieve the goal. Visualize the goal or problem standing in your way, and then visualize practical solutions. When designing solutions, the objective is to change how you do things so that problems don’t recur—or recur so often.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 853-858 | Hinzugefügt am Freitag, 3. November 2017 03:40:49
+
+achieve your goals. Said differently, goals are the sole purpose of designs and tasks. So you mustn’t forget how they’re related. Frequently I see people feel great about doing their tasks while forgetting the goals they were designed to achieve, resulting in the failure to achieve their goals. This doesn’t make any sense, because the only purpose of tasks is to achieve goals. In order to be successful, your goals must be riveted in your mind: they are the things you MUST do. To remember the connections between the tasks and the goals that they are meant to achieve, you just have to ask, “Why?” It is good to connect tasks to goals this way (with the “Why?”), because losing sight of the connections will prevent you from succeeding.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 861-861 | Hinzugefügt am Freitag, 3. November 2017 03:41:21
+
+more slowly than tasks. Designs and tasks can be
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 861-861 | Hinzugefügt am Freitag, 3. November 2017 03:41:26
+
+more slowly than tasks. Designs and tasks can be
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 935-935 | Hinzugefügt am Freitag, 3. November 2017 03:45:42
+
+confusion and eventually gravitation toward the
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 960-961 | Hinzugefügt am Freitag, 3. November 2017 03:46:49
+
+I also believe that the most important difference between great organizations and bad ones is in how well they manage their feedback loops.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 964-966 | Hinzugefügt am Freitag, 3. November 2017 03:47:28
+
+Most importantly I value meaningful work and meaningful relationships that are obtained by striving for truth and excellence with great people. I am confident that through this constant striving, we will evolve rapidly together.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1040-1041 | Hinzugefügt am Freitag, 3. November 2017 03:51:03
+
+Recognize that conflicts are essential for great relationships because they are the means by which people determine whether their principles are
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1040-1044 | Hinzugefügt am Freitag, 3. November 2017 03:51:11
+
+26)      Recognize that conflicts are essential for great relationships because they are the means by which people determine whether their principles are aligned and resolve their differences. a) Expect more open-minded disagreements at Bridgewater than at most other firms. b) There is giant untapped potential in disagreement, especially if the disagreement is between two or more thoughtful people
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1011-1022 | Hinzugefügt am Freitag, 3. November 2017 03:51:54
+
+Create a Culture in Which It Is OK to Make Mistakes but Unacceptable Not to Identify, Analyze, and Learn From Them 9) Recognize that effective, innovative thinkers are going to make mistakes 10)      Do not feel bad about your mistakes or those of others. Love them! 11)      Observe the patterns of mistakes to see if they are a product of weaknesses. 12)      Do not feel bad about your weaknesses or those of others.  13)      Don’t worry about looking good - worry about achieving your goals.  14)      Get over “blame” and “credit” and get on with “accurate” and “inaccurate.”  15)      Don’t depersonalize mistakes.  16)      Write down your weaknesses and the weaknesses of others to help remember and acknowledge them.  17)      When you experience pain, remember to reflect. 
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1069-1072 | Hinzugefügt am Freitag, 3. November 2017 03:53:18
+
+33)      If it is your meeting to run, manage the conversation. a)  Make it clear who the meeting is meant to serve and who is directing the meeting.  b)  Make clear what type of communication you are going to have in light of the objectives and priorities.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1117-1118 | Hinzugefügt am Freitag, 3. November 2017 03:55:16
+
+Hire Right, Because the Penalties of Hiring Wrong Are Huge 53)      Think through
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1117-1118 | Hinzugefügt am Freitag, 3. November 2017 03:55:30
+
+Hire Right, Because the Penalties of Hiring Wrong Are Huge 53)      Think through
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1117-1117 | Hinzugefügt am Freitag, 3. November 2017 03:55:43
+
+Hire Right, Because the Penalties of Hiring Wrong Are Huge
+==========
+Zorba the Greek (Nikos Kazantzakis)
+- Ihre Markierung bei Position 47-47 | Hinzugefügt am Freitag, 3. November 2017 04:09:11
+
+darkness. It was raining and I could see the shafts of
+==========
+Zorba the Greek (Nikos Kazantzakis)
+- Ihre Markierung bei Position 47-47 | Hinzugefügt am Freitag, 3. November 2017 04:09:22
+
+darkness. It was raining and I could see the shafts of
+==========
+Zorba the Greek (Nikos Kazantzakis)
+- Ihre Markierung bei Position 128-129 | Hinzugefügt am Freitag, 3. November 2017 04:19:04
+
+disturbed, I raised my head. Somehow, I felt as if
+==========
+Zorba the Greek (Nikos Kazantzakis)
+- Ihre Markierung bei Position 155-156 | Hinzugefügt am Freitag, 3. November 2017 04:20:49
+
+learn spelling from her backside, do you? The
+==========
+Zorba the Greek (Nikos Kazantzakis)
+- Ihre Markierung bei Position 325-327 | Hinzugefügt am Samstag, 4. November 2017 01:04:52
+
+“But at the time, you see, my blood was hot in my veins! How could I stop to examine the whys and wherefores? To think things out properly and fairly, a fellow's got to be calm and old and toothless. When you're an old gaffer with no teeth, it's easy to say: 'Damn it, boys, you mustn't bite!' But, when you've got all thirty-two teeth… A man's a savage beast when he's young; yes, boss, a savage, man-eating beast!”
+==========
+Zorba the Greek (Nikos Kazantzakis)
+- Ihre Markierung bei Position 371-374 | Hinzugefügt am Samstag, 4. November 2017 01:12:13
+
+Free yourself from one passion to be dominated by another and nobler one. But is not that, too, a form of slavery? To sacrifice oneself to an idea, to a race, to God? Or does it mean that the higher the model the longer the tether of our slavery? Then we can enjoy ourselves and frolic in a more spacious arena and die without having come to the end of the tether. Is that, then, what we call liberty?
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1305-1306 | Hinzugefügt am Samstag, 4. November 2017 01:35:34
+
+Remember that if you have the same people doing the same things, you should expect the same results.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1323-1325 | Hinzugefügt am Samstag, 4. November 2017 01:36:34
+
+Visualize alternative machines and their outcomes, and then choose 173)   Think about second- and third-order consequences as well as first-order consequences. 174)   Most importantly,
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1323-1325 | Hinzugefügt am Samstag, 4. November 2017 01:36:44
+
+Visualize alternative machines and their outcomes, and then choose 173)   Think about second- and third-order consequences as well
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1347-1351 | Hinzugefügt am Sonntag, 5. November 2017 02:00:33
+
+Constantly think about how to produce leverage. a) You should be able to delegate the details away. b) It is far better to find a few smart people and give them the best technology than to have a greater number of ordinary and less well-equipped people. c) Use “leveragers.”
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1378-1378 | Hinzugefügt am Sonntag, 5. November 2017 02:02:14
+
+Embrace the power of asking: “What don’t I know, and
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1378-1379 | Hinzugefügt am Sonntag, 5. November 2017 02:02:19
+
+Embrace the power of asking: “What don’t I know, and what should I do about it?” b) Finding the path to success is at least as dependent on coming up with the right questions
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1376-1380 | Hinzugefügt am Sonntag, 5. November 2017 02:02:27
+
+Understand that the ability to deal with not knowing is far more powerful than knowing a) Embrace the power of asking: “What don’t I know, and what should I do about it?” b) Finding the path to success is at least as dependent on coming up with the right questions as coming up with answers.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1386-1394 | Hinzugefügt am Sonntag, 5. November 2017 02:04:26
+
+Make All Decisions Logically, as Expected Value Calculations 197)   Considering both the probabilities and the payoffs of the consequences, make sure that the probability of the unacceptable (i.e., the risk of ruin) is nil. a) The cost of a bad decision is equal to or greater than the reward of a good decision, so knowing what you don’t know is at least as valuable as knowing. b) Recognize opportunities where there isn’t much to lose and a lot to gain, even if the probability of the gain happening is low. c) Understand how valuable it is to raise the probability that your decision will be right by accurately assessing the probability of your being right. d) Don’t bet too much on anything.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1386-1394 | Hinzugefügt am Sonntag, 5. November 2017 02:04:29
+
+Make All Decisions Logically, as Expected Value Calculations 197)   Considering both the probabilities and the payoffs of the consequences, make sure that the probability of the unacceptable (i.e., the risk of ruin) is nil. a) The cost of a bad decision is equal to or greater than the reward of a good decision, so knowing what you don’t know is at least as valuable as knowing. b) Recognize opportunities where there isn’t much to lose and a lot to gain, even if the probability of the gain happening is low. c) Understand how valuable it is to raise the probability that your decision will be right by accurately assessing the probability of your being right. d) Don’t bet too much on anything.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1386-1394 | Hinzugefügt am Sonntag, 5. November 2017 02:04:33
+
+Make All Decisions Logically, as Expected Value Calculations 197)   Considering both the probabilities and the payoffs of the consequences, make sure that the probability of the unacceptable (i.e., the risk of ruin) is nil. a) The cost of a bad decision is equal to or greater than the reward of a good decision, so knowing what you don’t know is at least as valuable as knowing. b) Recognize opportunities where there isn’t much to lose and a lot to gain, even if the probability of the gain happening is low. c) Understand how valuable it is to raise the probability that your decision will be right by accurately assessing the probability of your being right. d) Don’t bet too much on anything.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1386-1396 | Hinzugefügt am Sonntag, 5. November 2017 02:04:36
+
+Make All Decisions Logically, as Expected Value Calculations 197)   Considering both the probabilities and the payoffs of the consequences, make sure that the probability of the unacceptable (i.e., the risk of ruin) is nil. a) The cost of a bad decision is equal to or greater than the reward of a good decision, so knowing what you don’t know is at least as valuable as knowing. b) Recognize opportunities where there isn’t much to lose and a lot to gain, even if the probability of the gain happening is low. c) Understand how valuable it is to raise the probability that your decision will be right by accurately assessing the probability of your being right. d) Don’t bet too much on anything. Make 15 or more good, uncorrelated bets. 198)      Remember the 80/20 Rule, and Know
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1386-1394 | Hinzugefügt am Sonntag, 5. November 2017 02:04:42
+
+Make All Decisions Logically, as Expected Value Calculations 197)   Considering both the probabilities and the payoffs of the consequences, make sure that the probability of the unacceptable (i.e., the risk of ruin) is nil. a) The cost of a bad decision is equal to or greater than the reward of a good decision, so knowing what you don’t know is at least as valuable as knowing. b) Recognize opportunities where there isn’t much to lose and a lot to gain, even if the probability of the gain happening is low. c) Understand how valuable it is to raise the probability that your decision will be right by accurately assessing the probability of your being right. d) Don’t bet too much on anything. Make
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1386-1394 | Hinzugefügt am Sonntag, 5. November 2017 02:04:45
+
+Make All Decisions Logically, as Expected Value Calculations 197)   Considering both the probabilities and the payoffs of the consequences, make sure that the probability of the unacceptable (i.e., the risk of ruin) is nil. a) The cost of a bad decision is equal to or greater than the reward of a good decision, so knowing what you don’t know is at least as valuable as knowing. b) Recognize opportunities where there isn’t much to lose and a lot to gain, even if the probability of the gain happening is low. c) Understand how valuable it is to raise the probability that your decision will be right by accurately assessing the probability of your being right. d) Don’t bet too much on anything. Make
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1386-1395 | Hinzugefügt am Sonntag, 5. November 2017 02:04:47
+
+Make All Decisions Logically, as Expected Value Calculations 197)   Considering both the probabilities and the payoffs of the consequences, make sure that the probability of the unacceptable (i.e., the risk of ruin) is nil. a) The cost of a bad decision is equal to or greater than the reward of a good decision, so knowing what you don’t know is at least as valuable as knowing. b) Recognize opportunities where there isn’t much to lose and a lot to gain, even if the probability of the gain happening is low. c) Understand how valuable it is to raise the probability that your decision will be right by accurately assessing the probability of your being right. d) Don’t bet too much on anything. Make 15 or more good, uncorrelated bets.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1427-1428 | Hinzugefügt am Sonntag, 5. November 2017 02:11:10
+
+Being truthful is an extension of your freedom to be you; people who are one way on the inside and another on the outside become conflicted and often lose touch with their own values. It’s
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1427-1428 | Hinzugefügt am Sonntag, 5. November 2017 02:11:13
+
+Being truthful is an extension of your freedom to be you; people who are one way on the inside and another on the outside become conflicted and often lose touch with their own values. It’s
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1427-1428 | Hinzugefügt am Sonntag, 5. November 2017 02:11:21
+
+Being truthful is an extension of your freedom to be you; people who are one way on the inside and another on the outside become conflicted and often lose touch with their own values.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1427-1429 | Hinzugefügt am Sonntag, 5. November 2017 02:11:29
+
+Being truthful is an extension of your freedom to be you; people who are one way on the inside and another on the outside become conflicted and often lose touch with their own values. It’s difficult for them to be happy, and almost impossible for them to be at their best.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1427-1430 | Hinzugefügt am Sonntag, 5. November 2017 06:25:15
+
+Being truthful is an extension of your freedom to be you; people who are one way on the inside and another on the outside become conflicted and often lose touch with their own values. It’s difficult for them to be happy, and almost impossible for them to be at their best. While the first-order effects of being radically truthful might not be desirable, the second- and third-order effects are great.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1439-1441 | Hinzugefügt am Sonntag, 5. November 2017 06:26:48
+
+Have integrity and demand it from others. Integrity comes from the Latin word integer, meaning “one.” People who are one way on the inside and another way outside lack integrity; they have duality.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1487-1491 | Hinzugefügt am Sonntag, 5. November 2017 06:29:32
+
+Do not feel bad about your mistakes or those of others. Love them! Remember that 1) they are to be expected, 2) they’re the first and most essential part of the learning process, and 3) feeling bad about them will prevent you from getting better. People typically feel bad about mistakes because they think in a short-sighted way that mistakes reflect their badness or because they’re worried about being punished (or not being rewarded). People also tend to get angry at those who make mistakes because in a short-sighted way they focus on the bad outcome rather than the educational, evolutionary process they’re a part of. That’s a real tragedy.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1499-1502 | Hinzugefügt am Sonntag, 5. November 2017 06:30:39
+
+Observe the patterns of mistakes to see if they are a product of weaknesses. Connect the dots without ego barriers. If there is a pattern of mistakes, it probably signifies a weakness. Everyone has weaknesses. The fastest path to success is to know what they are and how to deal with them so that they don’t stand in your way. Weaknesses are due to deficiencies in learning or deficiencies in abilities.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1502-1503 | Hinzugefügt am Sonntag, 5. November 2017 06:30:52
+
+Deficiencies in learning can be rectified over time, though usually not quickly, while deficiencies in abilities are virtually impossible to change.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1513-1517 | Hinzugefügt am Sonntag, 5. November 2017 06:38:28
+
+When people hear, “You did XYZ wrong,” they have an instinctual reaction to figure out possible consequences or punishments rather than to try to understand how to improve. Remember that what has happened lies in the past and no longer matters, except as a method for learning how to be better in the future. Create an environment in which people understand that remarks such as “You handled that badly” are meant to be helpful (for the future) rather than punitive (for
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1513-1517 | Hinzugefügt am Sonntag, 5. November 2017 06:38:34
+
+When people hear, “You did XYZ wrong,” they have an instinctual reaction to figure out possible consequences or punishments rather than to try to understand how to improve. Remember that what has happened lies in the past and no longer matters, except as a method for learning how to be better in the future. Create an environment in which people understand that remarks such as “You handled that badly” are meant to be helpful (for the future) rather than punitive (for the past).
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1519-1520 | Hinzugefügt am Sonntag, 5. November 2017 06:38:59
+
+Don’t depersonalize mistakes. Identifying who made mistakes is essential to learning. It is also a test of whether a person will put improvement ahead of ego and whether he will fit into the Bridgewater culture.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1528-1532 | Hinzugefügt am Sonntag, 5. November 2017 06:40:14
+
+When you experience pain, remember to reflect. You can convert the “pain” of seeing your mistakes and weaknesses into pleasure. If there is only one piece of advice I can get you to remember it is this one. Calm yourself down and think about what is causing your psychological pain. Ask other objective, believable parties for their help to figure it out. Find out what is true. Don’t let ego barriers stand in your way. Remember that pains that come from seeing mistakes and weaknesses are “growing pains” that you learn from.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1528-1533 | Hinzugefügt am Sonntag, 5. November 2017 06:40:23
+
+When you experience pain, remember to reflect. You can convert the “pain” of seeing your mistakes and weaknesses into pleasure. If there is only one piece of advice I can get you to remember it is this one. Calm yourself down and think about what is causing your psychological pain. Ask other objective, believable parties for their help to figure it out. Find out what is true. Don’t let ego barriers stand in your way. Remember that pains that come from seeing mistakes and weaknesses are “growing pains” that you learn from.[51] Don’t rush through them. Stay in them and explore them because that will help build the foundation for improvement.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1535-1536 | Hinzugefügt am Sonntag, 5. November 2017 06:40:48
+
+Embracing your failures is the first step toward genuine improvement; it is also why “confession” precedes forgiveness in many societies.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1572-1573 | Hinzugefügt am Sonntag, 5. November 2017 06:44:55
+
+Open-minded people seek to learn by asking questions; they realize that what they know is little in relation to what there is to know and recognize that they might be wrong.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1572-1575 | Hinzugefügt am Sonntag, 5. November 2017 06:45:14
+
+Open-minded people seek to learn by asking questions; they realize that what they know is little in relation to what there is to know and recognize that they might be wrong. Closed-minded people always tell you what they know, even if they know hardly anything about the subject being discussed. They are typically made uncomfortable by being around those who know a lot more about a subject, unlike open-minded people who are thrilled by such company.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1577-1579 | Hinzugefügt am Sonntag, 5. November 2017 06:45:31
+
+Being open-minded is far more important than being bright or smart. 24e) Be wary of the arrogant intellectual who comments from the stands without having played on the field.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1580-1580 | Hinzugefügt am Sonntag, 5. November 2017 06:45:55
+
+Watch out for people who think it’s embarrassing not to know. They’re dangerous.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1607-1609 | Hinzugefügt am Sonntag, 5. November 2017 06:47:06
+
+Recognize that “there are many good ways to skin a cat.” Your assessment of how responsible parties are doing their jobs should not be based on whether they’re doing it your way but whether they’re doing it in a good way. 27c) For disagreements to have
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1697-1702 | Hinzugefügt am Sonntag, 5. November 2017 07:57:42
+
+1+1=3. Two people who collaborate well will be about three times as effective as the two of them operating independently because they will see what the other might miss, they can leverage each other, and they can hold each other to higher standards. This symbiotic relationship of adding people to a group will have incremental benefits (2+1=4.25) up to a point at which there are no incremental gains and beyond which adding people produces incremental losses in effectiveness. That is because 1) the marginal benefits diminish as the group gets larger—e.g. two or three people might be able to cover most of the important perspectives so adding more people doesn't bring much more, and 2) larger group interactions
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1709-1710 | Hinzugefügt am Sonntag, 5. November 2017 07:59:27
+
+Watch out for “topic slip.” Topic slip is the random and inconclusive drifting from topic to topic without achieving completion.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1718-1720 | Hinzugefügt am Sonntag, 5. November 2017 08:00:34
+
+Achieve completion in conversations. The main purpose of discussion is to achieve completion and get in synch, which leads to decisions and or actions. Conversations often fail to reach completion. This amounts to a waste of time because they don’t result in conclusions or productive actions.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1773-1781 | Hinzugefügt am Sonntag, 5. November 2017 08:16:11
+
+Recognize that the inevitable responsible party is the person who bears the consequences of what is done. Because of this, the RP must choose wisely when delegating responsibilities to others, and he must incentivize and manage them appropriately. There is no escaping that. For example, you are the inevitable RP for taking care of your health because you’re the one who inevitably bears the consequences. If you’re sick, you might choose to delegate the responsibility of figuring out what do to about it to a doctor. However, it is your responsibility to pick the right doctor because you will bear the consequences of that decision. While it is, of course, also the doctor’s responsibility to handle the responsibilities that you delegate to him, you still need to make sure that his incentives are aligned with his responsibilities and that he is doing his job well. The inevitable responsible party can’t delegate all his responsibilities away and expect good outcomes, even in cases in which he has no expertise. So you can’t escape hiring and managing properly. ... 41) By and large, you will get what you deserve
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1773-1780 | Hinzugefügt am Sonntag, 5. November 2017 08:16:43
+
+Recognize that the inevitable responsible party is the person who bears the consequences of what is done. Because of this, the RP must choose wisely when delegating responsibilities to others, and he must incentivize and manage them appropriately. There is no escaping that. For example, you are the inevitable RP for taking care of your health because you’re the one who inevitably bears the consequences. If you’re sick, you might choose to delegate the responsibility of figuring out what do to about it to a doctor. However, it is your responsibility to pick the right doctor because you will bear the consequences of that decision. While it is, of course, also the doctor’s responsibility to handle the responsibilities that you delegate to him, you still need to make sure that his incentives are aligned with his responsibilities and that he is doing his job well. The inevitable responsible party can’t delegate all his responsibilities away and expect good outcomes, even in cases in which he has no expertise. So you can’t escape hiring and managing properly.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1773-1780 | Hinzugefügt am Sonntag, 5. November 2017 08:22:34
+
+Recognize that the inevitable responsible party is the person who bears the consequences of what is done. Because of this, the RP must choose wisely when delegating responsibilities to others, and he must incentivize and manage them appropriately. There is no escaping that. For example, you are the inevitable RP for taking care of your health because you’re the one who inevitably bears the consequences. If you’re sick, you might choose to delegate the responsibility of figuring out what do to about it to a doctor. However, it is your responsibility to pick the right doctor because you will bear the consequences of that decision. While it is, of course, also the doctor’s responsibility to handle the responsibilities that you delegate to him, you still need to make sure that his incentives are aligned with his responsibilities and that he is doing his job well. The inevitable responsible party can’t delegate all his responsibilities away and expect good outcomes, even in cases in which he has no expertise. So you can’t escape hiring and managing properly.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1773-1780 | Hinzugefügt am Sonntag, 5. November 2017 08:22:35
+
+Recognize that the inevitable responsible party is the person who bears the consequences of what is done. Because of this, the RP must choose wisely when delegating responsibilities to others, and he must incentivize and manage them appropriately. There is no escaping that. For example, you are the inevitable RP for taking care of your health because you’re the one who inevitably bears the consequences. If you’re sick, you might choose to delegate the responsibility of figuring out what do to about it to a doctor. However, it is your responsibility to pick the right doctor because you will bear the consequences of that decision. While it is, of course, also the doctor’s responsibility to handle the responsibilities that you delegate to him, you still need to make sure that his incentives are aligned with his responsibilities and that he is doing his job well. The inevitable responsible party can’t delegate all his responsibilities away and expect good outcomes, even in cases in which he has no expertise. So you can’t escape hiring and managing properly.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1773-1780 | Hinzugefügt am Sonntag, 5. November 2017 08:22:37
+
+Recognize that the inevitable responsible party is the person who bears the consequences of what is done. Because of this, the RP must choose wisely when delegating responsibilities to others, and he must incentivize and manage them appropriately. There is no escaping that. For example, you are the inevitable RP for taking care of your health because you’re the one who inevitably bears the consequences. If you’re sick, you might choose to delegate the responsibility of figuring out what do to about it to a doctor. However, it is your responsibility to pick the right doctor because you will bear the consequences of that decision. While it is, of course, also the doctor’s responsibility to handle the responsibilities that you delegate to him, you still need to make sure that his incentives are aligned with his responsibilities and that he is doing his job well. The inevitable responsible party can’t delegate all his responsibilities away and expect good outcomes, even in cases in which he has no expertise. So you can’t escape hiring and managing properly.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1773-1780 | Hinzugefügt am Sonntag, 5. November 2017 23:41:28
+
+Recognize that the inevitable responsible party is the person who bears the consequences of what is done. Because of this, the RP must choose wisely when delegating responsibilities to others, and he must incentivize and manage them appropriately. There is no escaping that. For example, you are the inevitable RP for taking care of your health because you’re the one who inevitably bears the consequences. If you’re sick, you might choose to delegate the responsibility of figuring out what do to about it to a doctor. However, it is your responsibility to pick the right doctor because you will bear the consequences of that decision. While it is, of course, also the doctor’s responsibility to handle the responsibilities that you delegate to him, you still need to make sure that his incentives are aligned with his responsibilities and that he is doing his job well. The inevitable responsible party can’t delegate all his responsibilities away and expect good outcomes, even in cases in which he has no expertise. So you can’t escape hiring and managing properly.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1773-1780 | Hinzugefügt am Sonntag, 5. November 2017 23:41:29
+
+Recognize that the inevitable responsible party is the person who bears the consequences of what is done. Because of this, the RP must choose wisely when delegating responsibilities to others, and he must incentivize and manage them appropriately. There is no escaping that. For example, you are the inevitable RP for taking care of your health because you’re the one who inevitably bears the consequences. If you’re sick, you might choose to delegate the responsibility of figuring out what do to about it to a doctor. However, it is your responsibility to pick the right doctor because you will bear the consequences of that decision. While it is, of course, also the doctor’s responsibility to handle the responsibilities that you delegate to him, you still need to make sure that his incentives are aligned with his responsibilities and that he is doing his job well. The inevitable responsible party can’t delegate all his responsibilities away and expect good outcomes, even in cases in which he has no expertise. So you can’t escape hiring and managing properly.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1818-1826 | Hinzugefügt am Sonntag, 5. November 2017 23:46:03
+
+Caltech Professor Roger Sperry, who won a Nobel Prize in medicine for attributing these two ways of thinking to different reliances on the two hemispheres. As a result of this discovery, these two ways of thinking are called “left-brained” and “right-brained.” Professor Sperry helped us understand that: o The left hemisphere reasons sequentially, analyzes details, and excels at linear analysis. Left-brained thinkers do these things well. They are also called linear thinkers. When they excel at this type of thinking they are called “bright.”[59] o The right hemisphere reasons holistically, recognizes themes, and synthesizes the big picture. Right-brained thinkers do these things well. People who think this way are also called lateral thinkers. Those who excel at this kind of thinking are called “smart.”[60]
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1828-1829 | Hinzugefügt am Sonntag, 5. November 2017 23:46:20
+
+On a scale of -5 to +5 – left-brained to right-brained – where do you think you fall? How confident are you that your self-assessment is right?
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1831-1842 | Hinzugefügt am Sonntag, 5. November 2017 23:51:00
+
+Some people see details (trees), and others see big pictures (forests). Those who “see trees” see the parts most vividly and don’t readily relate the parts to each other in order to see the big picture—e.g., they might prefer more literal, precise paintings. They are typically left-brained. Others connect the dots to pictures. In fact, they typically don’t even see the dots; they just see the pictures. They are typically right-brained. You can detect which type people are by observing what they focus on. Detailed thinkers can lose sight of the big picture and are more likely to focus in on a part than to go to the higher level and see the relationship between parts. For example, a person who focuses on details can be thrown off by word mistakes like “there“ instead of “their,” while big-picture thinkers won’t even notice the mistake. Similarly, big-picture thinkers can often understand the meaning of sentences even when key words are reversed—e.g., when “up” is mistakenly used instead of “down,” they understand that the person speaking couldn’t have meant “up” in that context. That is because their attention is focused on the context first and the details second. When describing the same meeting, these two different types will frequently focus on completely different things and disagree on their interpretations. In discussions, they can frustrate each other and discount what the other is saying. Similarly, a person of one type interviewing another type will usually yield an unsatisfactory result. On a scale of -5 to +5 – “detailed” to “big picture” – where do you think you fall?
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1860-1868 | Hinzugefügt am Sonntag, 5. November 2017 23:52:37
+
+Some people are focused on daily tasks, and others are focused on their goals and how to achieve them. Those who “visualize” best can see the pictures (rather than the dots) over time. They have a strong capacity to visualize and will be more likely to make meaningful changes and anticipate future events. They are the most suitable for creating new things (organizations, projects, etc.) and managing organizations that have lots of change. We call them “creators.” They are typically right-brained thinkers. By contrast, those who are focused on the daily tasks are better at managing things that don’t change much or require repetitive processes done reliably, and are typically best at doing clearly specified tasks. They see things much more literally and tend to make incremental changes that reference what already exists. They are slower to depart from the status quo and more likely to be blindsided by sudden events. They are typically left-brained thinkers. On a scale of -5 to +5 – “tasks” to “goals” – where do you think you fall?
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1869-1879 | Hinzugefügt am Sonntag, 5. November 2017 23:53:05
+
+Some people are “planners,” and others are “perceivers.” Planners like to focus on a plan and stick with it, while perceivers are prone to focus on what’s happening around them and more readily adapt to it. Perceivers see things happening and work backward to understand the cause and how to respond; they work from the outside in; they also see many more possibilities that they compare and choose from; often they see so many that they are confused by them. In contrast, planners work from the inside out, figuring out first what they want to achieve and then how things should unfold. Planners and perceivers have trouble appreciating each other. While a perceiver likes to see new things and change directions often, this is discomforting to planners, who prefer to stick to a plan. Planners weigh precedent much more heavily in their decision- making, and assume that if it was done before in a certain way, it should be done again in the same way, while perceivers tend to optimize on the spot. Planners are typically left-brained, and perceivers are typically right-brained. On a scale of -5 to +5 – “planner” to “perceiver” – where do you think you fall? How confident are you that your self-assessment is right?
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1879-1884 | Hinzugefügt am Sonntag, 5. November 2017 23:53:20
+
+Some people are driven more by their emotions, and others are driven more by their intellect. We all have emotions and intellect. When they conflict, some people will give in to their emotions, while others maintain control of their emotions and are driven by their intellect. I am told this is more due to relative reliance on the amygdala and the prefrontal cortex, but I’m not sure. Once again, these two different types typically can’t understand and typically frustrate each other. On a scale of -5 to +5 –“driven by emotion” to “driven by intellect” – where do you think you fall? How confident
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1879-1884 | Hinzugefügt am Sonntag, 5. November 2017 23:53:27
+
+Some people are driven more by their emotions, and others are driven more by their intellect. We all have emotions and intellect. When they conflict, some people will give in to their emotions, while others maintain control of their emotions and are driven by their intellect. I am told this is more due to relative reliance on the amygdala and the prefrontal cortex, but I’m not sure. Once again, these two different types typically can’t understand and typically frustrate each other. On a scale of -5 to +5 –“driven by emotion” to “driven by intellect” – where do you think you fall?
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1869-1879 | Hinzugefügt am Sonntag, 5. November 2017 23:53:33
+
+Some people are “planners,” and others are “perceivers.” Planners like to focus on a plan and stick with it, while perceivers are prone to focus on what’s happening around them and more readily adapt to it. Perceivers see things happening and work backward to understand the cause and how to respond; they work from the outside in; they also see many more possibilities that they compare and choose from; often they see so many that they are confused by them. In contrast, planners work from the inside out, figuring out first what they want to achieve and then how things should unfold. Planners and perceivers have trouble appreciating each other. While a perceiver likes to see new things and change directions often, this is discomforting to planners, who prefer to stick to a plan. Planners weigh precedent much more heavily in their decision- making, and assume that if it was done before in a certain way, it should be done again in the same way, while perceivers tend to optimize on the spot. Planners are typically left-brained, and perceivers are typically right-brained. On a scale of -5 to +5 – “planner” to “perceiver” – where do you think you fall? How confident are you that your self-assessment is right?
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1869-1878 | Hinzugefügt am Sonntag, 5. November 2017 23:53:42
+
+Some people are “planners,” and others are “perceivers.” Planners like to focus on a plan and stick with it, while perceivers are prone to focus on what’s happening around them and more readily adapt to it. Perceivers see things happening and work backward to understand the cause and how to respond; they work from the outside in; they also see many more possibilities that they compare and choose from; often they see so many that they are confused by them. In contrast, planners work from the inside out, figuring out first what they want to achieve and then how things should unfold. Planners and perceivers have trouble appreciating each other. While a perceiver likes to see new things and change directions often, this is discomforting to planners, who prefer to stick to a plan. Planners weigh precedent much more heavily in their decision- making, and assume that if it was done before in a certain way, it should be done again in the same way, while perceivers tend to optimize on the spot. Planners are typically left-brained, and perceivers are typically right-brained. On a scale of -5 to +5 – “planner” to “perceiver” – where do you think you fall?
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1888-1891 | Hinzugefügt am Sonntag, 5. November 2017 23:54:00
+
+Some people are introverts, and others are extroverts. The most important difference between them is their willingness to fight for truth. Introverts tend to find the necessary conflicts more difficult.  There are lots of important ways in which people think differently that I won’t continue on about. On a scale of -5 to +5 – “introvert” to “extrovert” – where do you think you fall?
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1885-1887 | Hinzugefügt am Sonntag, 5. November 2017 23:54:04
+
+Some people are risk-takers, and others are risk-averse. On a scale of -5 to +5 – “risk-averse” to “risk-takers” – where do you think you fall?
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1940-1946 | Hinzugefügt am Sonntag, 5. November 2017 23:56:39
+
+Recognize that performance in school, while of some value in making assessments, doesn’t tell you much about whether the person has the values and abilities you are looking for. Memory and processing speed tend to be the abilities that determine success in school (largely because they’re easier to measure and grade) and are most valued, so school performance is an excellent gauge of these. School performance is also a good gauge for measuring willingness and ability to follow directions as well as determination. However, school is of limited value for teaching and testing common sense, vision, creativity, or decision-making.[63] Since those traits all outweigh memory, processing speed, and the ability to follow directions in most jobs, you must look beyond school to ascertain whether the applicant has the qualities you’re looking for.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 1977-1980 | Hinzugefügt am Sonntag, 5. November 2017 23:58:06
+
+Understand the differences between managing, micromanaging, and not managing. Micromanaging is telling the people who work for you exactly what tasks to do and/or doing their tasks for them. Not managing is having them do their jobs without your oversight and involvement. Managing means: 1) understanding how well your people and designs are operating to achieve your goals and 2) constantly improving them. To be successful, you need to manage.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 2045-2049 | Hinzugefügt am Montag, 6. November 2017 00:03:43
+
+Watch out for people who confuse goals and tasks, because you can’t trust people with responsibilities if they don’t understand the goals. One way to test this: if you ask a high-level question like, “How is goal XYZ going?” a good answer will provide a synthesis upfront (of how XYZ is in fact going overall), and then support that assessment with the tasks done to achieve the goal. People who see the tasks and lose sight of the goals will just explain the tasks that were done and not make the connection to how those tasks relate to the machine that produces outcomes and achieves goals.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 2061-2065 | Hinzugefügt am Montag, 6. November 2017 00:04:47
+
+Don’t worry if your people like you; worry about whether you are helping your people and Bridgewater to be great. One of the most essential and difficult things you have to do is make sure the people who work for you do their jobs excellently. That requires constantly challenging them and doing things they don’t like you to do, such as probing them. Even your best people, whom you regularly praise and reward, must be challenged and probed. You shouldn’t be a manager if you have problems confronting people or if you put being liked above ensuring your people succeed. ...
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 2061-2065 | Hinzugefügt am Montag, 6. November 2017 00:05:00
+
+Don’t worry if your people like you; worry about whether you are helping your people and Bridgewater to be great. One of the most essential and difficult things you have to do is make sure the people who work for you do their jobs excellently. That requires constantly challenging them and doing things they don’t like you to do, such as probing them. Even your best people, whom you regularly praise and reward, must be challenged and probed. You shouldn’t be a manager if you have problems confronting people or if you put being liked above ensuring your people succeed. ...
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 2061-2065 | Hinzugefügt am Montag, 6. November 2017 00:05:05
+
+Don’t worry if your people like you; worry about whether you are helping your people and Bridgewater to be great. One of the most essential and difficult things you have to do is make sure the people who work for you do their jobs excellently. That requires constantly challenging them and doing things they don’t like you to do, such as probing them. Even your best people, whom you regularly praise and reward, must be challenged and probed. You shouldn’t be a manager if you have problems confronting people or if you put being liked above ensuring your people succeed.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 2090-2093 | Hinzugefügt am Montag, 6. November 2017 00:08:06
+
+Tool: Use daily updates as a tool for staying on top of what your people are doing and thinking. Daily updates are brief descriptions of what the person did that day, what they are planning to do the next day, their problems, their questions, and their observations. They typically take about five minutes to write and do wonders for staying in touch.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 2153-2155 | Hinzugefügt am Montag, 6. November 2017 00:11:31
+
+Probe to the level below the people who work for you. You can’t understand how the person who reports to you manages others unless you know their direct reports and can observe how they behave with them. Also encourage the people who work two levels below you to bring their disagreements with their bosses to you.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 2285-2286 | Hinzugefügt am Montag, 6. November 2017 01:51:14
+
+If someone is doing their job poorly, consider whether this is due to inadequate learning (i.e., training/experience) or inadequate ability.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 2371-2375 | Hinzugefügt am Montag, 6. November 2017 01:59:23
+
+Recognize that behavior modification typically takes about 18 months of constant reinforcement. The first step is intellectualizing the best way of doing things. If you’re out of shape you must understand that you are out of shape, you must want to get in shape, and you must understand the way to get in shape: “I want to be fit by eating well and exercising.” Then the intellect will fight with desires and emotions. With determination, the intellect will overcome the impediments to doing what’s necessary to achieve the goal, and the desired behavior will occur. After doing that consistently for 18 months, the new behavior will be internalized.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 2403-2409 | Hinzugefügt am Montag, 6. November 2017 02:02:11
+
+Know that it is much worse to keep someone in a job who is not suited for it than it is to fire someone. Don’t collect people. Firing people is not a big deal—certainly nowhere near as big a deal as keeping badly performing people, because keeping a person in a job they are not suited for is terrible both for the person (because it prevents personal evolution) and our community (because we all bear the consequences and it erodes meritocracy). Consider the enormous costs of not firing someone unsuited for a job: the costs of bad performance over a long time; the negative effect on the environment; the time and effort wasted trying to train the person; and the greater pain of separation involved with someone who’s been here awhile (say, five years or more) compared with someone let go after just a year. ...
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 2403-2409 | Hinzugefügt am Montag, 6. November 2017 02:02:14
+
+Know that it is much worse to keep someone in a job who is not suited for it than it is to fire someone. Don’t collect people. Firing people is not a big deal—certainly nowhere near as big a deal as keeping badly performing people, because keeping a person in a job they are not suited for is terrible both for the person (because it prevents personal evolution) and our community (because we all bear the consequences and it erodes meritocracy). Consider the enormous costs of not firing someone unsuited for a job: the costs of bad performance over a long time; the negative effect on the environment; the time and effort wasted trying to train the person; and the greater pain of separation involved with someone who’s been here awhile (say, five years or more) compared with someone let go after just a year. ...
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 2403-2409 | Hinzugefügt am Montag, 6. November 2017 02:02:17
+
+Know that it is much worse to keep someone in a job who is not suited for it than it is to fire someone. Don’t collect people. Firing people is not a big deal—certainly nowhere near as big a deal as keeping badly performing people, because keeping a person in a job they are not suited for is terrible both for the person (because it prevents personal evolution) and our community (because we all bear the consequences and it erodes meritocracy). Consider the enormous costs of not firing someone unsuited for a job: the costs of bad performance over a long time; the negative effect on the environment; the time and effort wasted trying to train the person; and the greater pain of separation involved with someone who’s been here awhile (say, five years or more)
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 2403-2409 | Hinzugefügt am Montag, 6. November 2017 02:02:20
+
+Know that it is much worse to keep someone in a job who is not suited for it than it is to fire someone. Don’t collect people. Firing people is not a big deal—certainly nowhere near as big a deal as keeping badly performing people, because keeping a person in a job they are not suited for is terrible both for the person (because it prevents personal evolution) and our community (because we all bear the consequences and it erodes meritocracy). Consider the enormous costs of not firing someone unsuited for a job: the costs of bad performance over a long time; the negative effect on the environment; the time and effort wasted trying to train the person; and the greater pain of separation involved with someone who’s been here awhile (say, five years or more)
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 2403-2409 | Hinzugefügt am Montag, 6. November 2017 02:02:24
+
+Know that it is much worse to keep someone in a job who is not suited for it than it is to fire someone. Don’t collect people. Firing people is not a big deal—certainly nowhere near as big a deal as keeping badly performing people, because keeping a person in a job they are not suited for is terrible both for the person (because it prevents personal evolution) and our community (because we all bear the consequences and it erodes meritocracy). Consider the enormous costs of not firing someone unsuited for a job: the costs of bad performance over a long time; the negative effect on the environment; the time and effort wasted trying to train the person; and the greater pain of separation involved with someone who’s been here awhile (say, five years or more)
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 2403-2409 | Hinzugefügt am Montag, 6. November 2017 02:02:28
+
+Know that it is much worse to keep someone in a job who is not suited for it than it is to fire someone. Don’t collect people. Firing people is not a big deal—certainly nowhere near as big a deal as keeping badly performing people, because keeping a person in a job they are not suited for is terrible both for the person (because it prevents personal evolution) and our community (because we all bear the consequences and it erodes meritocracy). Consider the enormous costs of not firing someone unsuited for a job: the costs of bad performance over a long time; the negative effect on the environment; the time and effort wasted trying to train the person; and the greater pain of separation involved with someone who’s been here awhile (say, five years or more)
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 2403-2409 | Hinzugefügt am Montag, 6. November 2017 02:02:32
+
+Know that it is much worse to keep someone in a job who is not suited for it than it is to fire someone. Don’t collect people. Firing people is not a big deal—certainly nowhere near as big a deal as keeping badly performing people, because keeping a person in a job they are not suited for is terrible both for the person (because it prevents personal evolution) and our community (because we all bear the consequences and it erodes meritocracy). Consider the enormous costs of not firing someone unsuited for a job: the costs of bad performance over a long time; the negative effect on the environment; the time and effort wasted trying to train the person; and the greater pain of separation involved with someone who’s been here awhile (say, five years or more) compared with someone let go after just a year.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 2434-2435 | Hinzugefügt am Montag, 6. November 2017 02:03:44
+
+“Taste the soup.” A good restaurateur constantly tastes the food that is coming out of his kitchen and judges it against his vision of what is excellent.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 2434-2435 | Hinzugefügt am Montag, 6. November 2017 02:03:46
+
+“Taste the soup.” A good restaurateur constantly tastes the food that is coming out of his kitchen and judges it against his vision of what is excellent.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 2434-2435 | Hinzugefügt am Montag, 6. November 2017 02:03:48
+
+“Taste the soup.” A good restaurateur constantly tastes the food that is coming out of his kitchen and judges it against his vision of what is
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 2434-2435 | Hinzugefügt am Montag, 6. November 2017 02:03:52
+
+“Taste the soup.” A good restaurateur constantly tastes the food that is coming out of his kitchen and judges it against his vision of what is
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 2434-2436 | Hinzugefügt am Montag, 6. November 2017 02:03:55
+
+“Taste the soup.” A good restaurateur constantly tastes the food that is coming out of his kitchen and judges it against his vision of what is excellent. A good manager needs to do the same.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 2431-2434 | Hinzugefügt am Montag, 6. November 2017 02:04:19
+
+Don’t tolerate badness. Too often I observe people who observe badness and tolerate it. Sometimes it is because they don’t have the courage to make the needed changes, and sometimes it is because they don’t know how to fix it. Both are very bad. If they’re stuck, they need to seek the advice of believable people to make the needed changes, and if that doesn’t work, they need to escalate.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 2498-2501 | Hinzugefügt am Montag, 6. November 2017 02:06:47
+
+Recognize that all problems are just manifestations of their root causes, so diagnose to understand what the problems are symptomatic of. Don’t deal with your problems as one-offs. They are outcomes produced by your machine, which consists of design and people. If the design is excellent and the people are excellent, the outcomes will be excellent (though not perfect). So when you have problems, your diagnosis should look at the design and the people to determine what failed you and why.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 2749-2754 | Hinzugefügt am Montag, 6. November 2017 02:12:28
+
+Think about second- and third-order consequences as well as first-order consequences. The outcome you get as a first-order consequence might be desirable (or undesirable), while the second- or third-order consequences could be the opposite, so focusing solely on first-order consequences, which people tend to do, could lead to bad decision-making. Though I might not like the first-order consequences of a rainy day, I might love the second-order consequences. So if I were in a position to choose whether or not there should be rainy days, I would need to look at the second- and third- order consequences to make the right decision. For example, for every person you plan to hire, you will have to hire more to support them. I call this “The 1.6 Effect.”
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 2774-2777 | Hinzugefügt am Montag, 6. November 2017 09:20:36
+
+People sometimes argue that we should have a technology department, but I am against that because building technology is a task, not a goal in and of itself. You build technology to perform valuable tasks. If we kept the tech resources outside the department, we would have people from various departments arguing about whose project is most important in order to garner resources, which isn’t good for efficiency. The tech people would be evaluated and managed by bureaucrats rather
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 2799-2802 | Hinzugefügt am Montag, 6. November 2017 09:23:41
+
+The number of layers from top to bottom and the ratio of managers to their direct reports will limit the size of an effective organization. 175e) The larger the organization, the more important are 1) information technology expertise in management and 2) cross-department communication (more on these later).
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 2802-2803 | Hinzugefügt am Montag, 6. November 2017 09:23:54
+
+Do not build the organization to fit the people. Jobs are created based on the work that needs to be done, not what people want to do or what people are available.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 2814-2817 | Hinzugefügt am Montag, 6. November 2017 09:25:14
+
+Constantly think about how to produce leverage. For example, to make training as easy to leverage as possible, document the most common questions and answers through audio, video, or written guidelines and then assign someone to regularly organize them into a manual. Technology can do most tasks, so think creatively about how to design tools that will provide leverage for you and the people who work for you.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 2822-2823 | Hinzugefügt am Montag, 6. November 2017 09:25:56
+
+Managers should view the need to get involved in the nitty-gritty themselves as a bad sign.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 2903-2906 | Hinzugefügt am Montag, 6. November 2017 09:29:47
+
+Remember that your goal is to find the best answer, not to give the best one you have. The answer doesn’t have to be in your head; you can look outside of you. In life the goal is for you to do the right thing, considering the probability that you might be wrong. So it is invaluable to know what you don’t know so that you can figure out a
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 2903-2906 | Hinzugefügt am Montag, 6. November 2017 09:29:51
+
+Remember that your goal is to find the best answer, not to give the best one you have. The answer doesn’t have to be in your head; you can look outside of you. In life the goal is for you to do the right thing, considering the probability that you might be wrong. So it is invaluable to know what you don’t know so that you can figure out a
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 2903-2906 | Hinzugefügt am Montag, 6. November 2017 09:29:55
+
+Remember that your goal is to find the best answer, not to give the best one you have. The answer doesn’t have to be in your head; you can look outside of you. In life the goal is for you to do the right thing, considering the probability that you might be wrong. So it is invaluable to know what you don’t know so that you can figure out a way to find out and/or to get help from others.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 2941-2945 | Hinzugefügt am Montag, 6. November 2017 09:31:51
+
+Don’t be a perfectionist, because perfectionists often spend too much time on little differences at the margins at the expense of other big, important things. Be an effective imperfectionist. Solutions that broadly work well (e.g., how people should contact each other in the event of crises) are generally better than highly specialized solutions (e.g., how each person should contact each other in the event of every conceivable crisis), especially in the early stages of a plan.
+==========
+Principles: Life and Work (Ray Dalio)
+- Ihre Markierung bei Position 2970-2977 | Hinzugefügt am Montag, 6. November 2017 09:34:37
+
+Understand the concept and use the phrase “by and large.” Too often I hear discussions fail to progress when a statement is made and the person to whom it is made replies, “Not always,” leading to a discussion of the exceptions rather than the rule. For example, a statement like “The people in the XYZ Department are working too many hours” might lead to a response like “Not all of them are; Sally and Bill are working normal hours,” which could lead to a discussion of whether Sally and Bill are working too long, which derails the discussion. Because nothing is 100% true, conversations can get off track if they turn to whether exceptions exist, which is especially foolish if both parties agree that the statement is by and large true. To avoid this problem, the person making such statements might use the term “by and large,” like “By and large, the people in the XYZ Department are working too many hours.” People hearing that should consider whether it is a “by and large” statement and treat it accordingly.
+==========
